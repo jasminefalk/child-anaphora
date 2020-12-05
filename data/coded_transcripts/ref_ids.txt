@@ -1,0 +1,26 @@
+helmet	1
+house	2
+blue car	3
+flower	4
+elephant	5
+snowman	6
+rabbit	7
+spongebob block	8
+turtle	9
+hammer	10
+ladybug	11
+praying mantis	12
+green car	13
+saw	14
+doll	15
+phone	16
+rubik's cube	17
+rake	18
+truck	19
+white car	20
+ladybug drum	21
+purple block	22
+bed	23
+beach ball block	24
+person	25
+non-study object	26

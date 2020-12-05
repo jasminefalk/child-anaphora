@@ -1,0 +1,172 @@
+228.850976	230.390243	"one, it"	"16, 16"	"one, pronoun"	2	"1, 1"	"1, 1"	let me see this one can mommy have it
+232.689147	233.728652							watch this watch
+238.646309	242.0247							oh you going to do it too oh oh good job
+243.583957	246.922367	this	13	pronoun	2	0	3	yeah there is some book what about these guy oh what is this
+248.30171	250.620605	it	13	pronoun	1	0	3	a car is it a green car
+252.679624	253.919034							mommys got a car too
+254.818605	255.898091	one	19	one	1	0	3	this one looks like a truck
+257.317415	259.276481							vocplayx
+260.435929	261.655348							vocplayx
+262.235072	263.314558							oh what else do you see
+267.772434	268.991853							oh flower
+274.009463	276.82812	one	18	one	2	1	2	that one is to play in the sand when we go to the beach
+277.307891	278.247444	it	18	pronoun	1	1	2	you can dig with it
+279.087044	280.246491	it	18	pronoun	1	1	1	it is kind of like a fork
+280.826215	281.785758							or spoon
+283.005177	283.604891							yes
+286.183663	290.201749	that	23	pronoun	1	1	2	is that a bed do you want to put one of the animal in the bed and go to sleep
+290.68152	292.36072							which one wants to go to bed the turtle
+294.279806	295.019453							the bug
+297.738158	298.717692							a ladybug
+305.234587	306.134158							there is a ball in there
+309.092749	309.772425							yeah
+310.512073	312.431159	it	24	pronoun	2	1	2	i do not know how i do not know how you open it
+312.850959	317.10893	"it, it"	"24, 24"	"pronoun, pronoun"	"2, 2"	"1, 1"	"1, 1"	it is kind of like a block do you want to sit it on top of this block oh good job
+318.928063	319.62773	that	7	pronoun	2	1	1	what is that
+320.967092	321.746721							a bunny
+322.166521	323.40593							what is that bunny wearing
+325.185083	326.464473	he	7	pronoun	1	1	1	is he wearing a fire hat
+327.424016	328.42354	those	7	pronoun	2	1	1	do you have one of those
+331.482083	332.20174	it	7	pronoun	2	1	1	can mommy see it
+332.941387	334.480654							oh thank you
+337.359283	338.218873	he	7	pronoun	1	1	1	he wants to go to sleep
+339.75814	340.817635							say night night
+341.317397	342.596788							oh what is this animal
+344.395931	346.175083							elephant you are right
+349.013731	352.711969	this	20	pronoun		0	3	what is this vocplayx
+354.890931	355.71054							a firetruck
+356.370226	358.948998	"it, it"	"20, 20"	"pronoun, pronoun"	"2, 2"	"1, 1"	"1, 1"	oh i think it is a police car it is kind of like a firetruck
+360.868083	362.467321							yeah can you make a siren noise
+365.405921	367.584883							say vocplayx
+370.38355	371.063226							snowman
+371.742903	372.802398	this	15	pronoun	1	0	3	is this a doll
+375.40116	377.160322							does the doll want to go to sleep in the bed
+380.478741	382.317865							oh that is nice
+382.817627	384.117008							do you want to grab that block
+388.554893	389.154608	that	10	pronoun	2	1	1	what is that
+390.673884	391.833332	these	14/10	split		0	3	are these tool
+392.513008	394.412103	"this, that"	"14, 10"	"pronoun, pronoun"	"1, 2"	"0, 1"	"3, 3"	this is a saw and what is that
+395.191732	396.011341							a hammer
+399.74956	400.16936							you do it
+403.367836	404.207437							good job
+405.646751	407.685779	it	24	pronoun	2	0	3	now can you saw on it vocplayx
+415.342132	416.621522							oh no do not do that
+417.381161	418.980399	her	15	pronoun	1	1	1	that hurts her oh
+419.839989	420.379732	that	2	pronoun	2	0	3	what is that
+421.399246	422.138894							house
+423.538227	425.597246							watch this oh
+426.796675	427.556313							can you do it
+434.073209	434.792866	it	17	pronoun	2	1	1	you twist it
+436.21219	437.51157	it	17	pronoun	1	1	2	you have to twist it like this
+440.949932	441.869494	it	17	pronoun	1	1	2	can you push it like that
+443.34879	445.607714	it	17	pronoun	1	1	1	just part of it oh no
+446.787152	447.826656							what happened
+449.505856	450.185533	it	17	pronoun	1	1	1	it broke
+456.402571	457.502047	it	17	pronoun	1	1	1	you want me to try to fix it
+459.121276	461.140314	this	8	pronoun	1	0	3	alright you got more block what is this
+463.099381	464.498714	that	8	pronoun	2	0	1	is that spongebob
+466.117942	468.077009							you do not know who spongebob is do you
+474.453971	476.692905							a hat you are putting the hat on spongebob
+478.212181	479.411609							oh that is neat
+480.351162	484.529171	"it, this, he"	"1, 1, 8"	"pronoun, pronoun, pronoun"	"1, 1, 1"	"1, 1, 1"	"1, 2, 1"	i do not think it will fit though because this is round and he is square
+486.188381	487.80761	it	1	pronoun	1	1	1	so i do not think it is going to fit
+491.705753	492.705276	this	16	pronoun	2	0	3	do you know what this is
+494.404467	494.94421	that	16	pronoun	2	0	3	what is that
+497.023219	497.88281	that	16	pronoun	2	0	1	is that a phone
+500.181715	501.181238							a duck
+501.960867	503.300229							do you want to get a book
+504.759534	505.998943							here why do not you sit down
+506.958486	507.698134							you sit down
+508.257867	509.417315							please thank you
+514.354962	515.794277	this	6	pronoun	2	0	3	oh what is this
+518.03321	519.29261							a snowman
+519.992277	522.031305							have you ever made a snowman before
+524.030353	526.609125							are you going to make one when it snows we go outside
+527.228829	529.907553	him	6	pronoun	1	0	2	you will give him two eye and a nose and a mouth
+530.947058	532.026544	his	6	pronoun	1	0	2	where is his arm
+533.725734	535.125068	it	6	pronoun	1	0	3	is it that stick right there
+535.804744	536.684325	his	6	pronoun	1	0	2	what is his wearing
+538.883277	539.982753							a scarf
+540.702411	541.821877	he	6	pronoun	1	1	1	is he wearing a hat
+547.539154	548.398744							yes
+548.858525	550.497744							oh what is this little girl wearing
+553.396363	554.815687	she	15	pronoun	2	0	2	she have soft hair
+559.97323	561.672421	she	15	pronoun	1	1	1	does she have an orange shirt on
+564.051287	566.370183	she	15	pronoun	1	1	1	and she has got shoe and pant
+567.52963	568.689078	she	15	pronoun	1	1	1	is she smiling
+569.748573	570.548192	she	15	pronoun	1	1	1	she happy
+573.566754	574.426345							yes
+575.325916	577.644811	"she, her"	"15, 15"	"pronoun, pronoun"	"1, 1"	"1, 1"	"1, 1"	does she dance can you make her dance
+581.722869	582.402545							oh
+583.581983	585.521059	this	12	pronoun	2	0	3	what is this oh
+585.96085	587.779983	that	12	pronoun	2	0	3	vocplayx is that a bug
+588.619583	589.958945	that	12	pronoun	2	0	3	what kind of a bug is that
+592.137907	595.036526							a preying mantis you need to stay sitting
+628.860412	631.139327							there you go we are going to read that book later
+632.358746	633.198346							oh
+634.937517	635.577212							here you go
+638.755698	639.775213	one	8	one	2	0	3	what is this one again
+642.413955	644.792822	"he, he"	"26, 26"	"pronoun, pronoun"	"2, 1"	"1, 1"	"1, 1"	no he is not to play with he is just sitting there
+646.771879	648.011289	this	8	pronoun	2	0	3	speechx what is this
+650.510098	651.929422							do you see any other block
+654.508194	654.888013							oh
+655.62766	656.547222	they	22/24	split	2	1	1	there they are
+659.605765	660.345413							uh huh
+666.262594	670.100766	it	24	pronoun	2	1	2	how do you get the ball i do not know i think it is just in there
+671.480108	672.999385	it	24	pronoun	1	1	2	but you can shake it and make noise
+674.598623	675.478204							yes
+678.296861	679.716185							we did not play with this car yet
+680.515804	682.45488	this	3	pronoun		0	3	oh what color is this
+684.373966	685.673347							what color is this car
+686.752833	687.692385	that	3	pronoun		0	3	is that blue
+690.091242	691.370633							do you like that color blue
+694.749023	695.788528							is there anybody in there
+696.768061	697.827557							you can not fit in there
+698.567204	699.686671	it	3	pronoun	2	1	1	it is too small
+700.966061	701.485814							oh
+702.005566	703.324938							i like this turtle
+703.904661	705.963681							did you see a turtle when we went to the zoo
+707.882766	708.682385							yeah
+709.182147	711.001281	he	9	pronoun	1	1	1	he is almost bigger than the car
+711.600995	712.420604	he	9	pronoun	1	1	1	is he heavy
+713.580052	714.479624	he	9	pronoun	1	1	1	he is kind of heavy
+720.436786	721.336357	one	21	pronoun	2	0	3	i like this one
+724.614795	726.353967							oh so put your hand like this
+727.493424	728.972719	it	21	pronoun	2	0	3	and turn it back and forth
+729.992233	730.971767							careful careful
+733.870386	736.649062							yeah oh bug
+737.128834	739.107891							two bug one two
+741.886567	742.826119							one two
+743.545777	744.845157							which one is the ladybug
+746.684281	747.184043	one	11	one	1	1	3	this one
+747.723786	749.223072	it	11	pronoun	1	1	2	because it is red with spot
+751.382043	753.301129	this	12	pronoun	1	1	3	and this is the preying mantis
+753.900843	754.740443	he	12	pronoun	1	0	1	he is green
+757.199272	758.158815							where is the elephant
+763.39632	765.795177							which one is the bunny was there a bunny
+768.174044	769.393463							i think there is a bunny
+770.13311	770.432968							oh
+771.292558	772.372044	it	7	pronoun	2	1	1	there it is
+774.111215	776.130253	that	17	pronoun	2	1	1	oh that is part of that broken one
+777.689511	778.189272	that	7	pronoun	2	0	3	what is that
+780.108358	780.967949	he	7	pronoun	1	0	2	he has a hat
+782.187368	784.166425	his	7	pronoun	1	0	2	yeah oh look his feet turn
+784.78613	785.745673	his	7	pronoun	1	1	1	can you turn his feet
+792.462473	794.581463							yeah it is kind of hard to turn oh
+797.260187	798.859425							which one is the police car
+801.038387	802.557663							which one was a police car
+804.856568	805.736149							yeah
+806.61573	807.475321	it	20	pronoun	2	0	3	what does it say
+807.975083	808.794692	it	20	pronoun	1	0	3	scratch it
+809.314444	810.673797							vocplayx
+816.550997	817.290645							a house
+821.068845	822.088359	that	2	pronoun	1	1	1	whose house is that
+824.22734	825.146902							who lives in there
+826.346331	828.82515							oh vocplayx
+830.124531	831.78374							can you drive one of these car
+832.883216	835.96175							vocplayx
+839.100255	839.879883							uh huh
+843.818007	844.77755	it	17	pronoun	2	1	1	yep it broke
+845.737093	849.79516							where is the tool can you get one of the tool the saw and the hammer
+855.472455	857.911293							oh careful we have got to stay sitting down please
+880.880351	882.339655							can you hammer on this block

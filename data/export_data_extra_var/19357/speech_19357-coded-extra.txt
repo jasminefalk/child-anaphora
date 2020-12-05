@@ -1,0 +1,86 @@
+130.553939	132.603792							where is the yellow oh
+133.051542	133.597236							look
+134.856532	138.480504	it	17	pronoun	2	0	3	look oh my goodness oh where is it
+139.837744	140.894153	that	17	pronoun	2	0	3	there is that
+141.5238	142.111472							we are going to
+142.748115	147.897234	that	17	pronoun	2	0	3	go around oh look at that oh vocplayx
+148.323995	148.561862							oh
+148.974631	152.206822							oh my goodness oh my goodness what else we got
+152.766509	159.489746	"that, that"	"17, 17"	"pronoun, pronoun"	"2, 1"	"1, 1"	"2, 2"	is that daddy toy oh oh look at that oh and oh my goodness look speechx
+159.958484	160.57414							we got it
+163.022769	166.57678	"this, these"	"24, 24"	"pronoun, pronoun"	"2, 1"	"0, 0"	"3, 3"	yes oh oh you know you know what this is you got one of these at home
+167.150459	168.444735	these	24	pronoun	1	0	3	you got one of these at home
+169.046398	175.209949	"that, it"	"17, 17"	"pronoun, pronoun"	"2, 2"	"0, 0"	"3, 3"	let us pay attention let us oh can we oh we got that and then let us roll it around oh
+175.699675	178.882894	"one, it"	"17, 17"	"pronoun, pronoun"	"1, 1"	"0, 0"	"3, 3"	and then do this one oh and roll it around
+179.617482	180.226142							there we go
+181.149625	182.227022							ahh we got a
+182.632795	183.73118							where is all the white one
+189.104174	190.573351							that actually
+195.827411	208.26645							alright it is alright it is alright it is okay shh it is alright here toy oh vocplayx there we go see
+208.78416	209.693651							we are doing great
+210.204365	211.575598							and then you got a phone
+213.485529	215.129609							alright oh alright
+215.549374	216.738709							we were doing great
+217.641204	220.551575							we are doing great and oh there is the rubiks cube
+221.433082	223.41997							it is okay look look
+224.952112	228.338217	this	12	pronoun	2	0	3	look and then oh what is this vocplayx
+228.785967	231.402503							vocplayx langplayx
+231.948197	233.571289							i got it oh langplayx
+234.137972	235.145408							oh langplayx
+236.362727	238.370603							langplayx oh langplayx
+238.874321	240.539389							langplayx
+240.945162	243.834545							oh vocplayx langplayx
+244.485181	245.646531	it	12	pronoun	2	1	1	there you go play with it
+248.948683	251.082489							oh and there is a rake oh
+251.593203	253.447166	it	18	pronoun	1	1	1	oh yes it is a rake
+254.741442	255.664925							and then the hammer see
+258.274464	258.463359							see
+264.004258	265.151616	that	10	pronoun	2	1	3	oh here do you want that
+266.389923	266.669766							oh
+269.657095	273.518933							oh yes oh see oh yes see you got it
+274.953131	280.438061							vocplayx
+281.004744	281.774313							vocplayx
+282.508902	283.29946							vocplayx
+285.237375	286.46169							vocplayx
+288.735418	289.567952							and oh
+290.043686	291.365946							there is a rabbit a bunny
+293.338842	294.395251	"that, it"	"7, 7"	"pronoun, pronoun"	"1, 1"	"0, 0"	"3, 3"	see look at that it is a bunny
+296.095299	296.864869	it	7	pronoun	1	1	1	it is a bunny
+298.341042	299.516385	it	7	pronoun	1	1	1	see it is a bunny
+300.607774	304.350679							oh now we have got oh spongebob vocplayx
+304.77744	306.02974							vocplayx
+307.610855	311.164866	it	8	pronoun	2	0	3	it is spongebob you put all your toy over here
+313.004836	316.726753	this	21	pronoun	2	0	3	all these toy over here oh look at this oh look at this oh what is this
+318.727634	319.532183							langplayx
+324.905177	327.248865							see you got all these toy
+332.481937	334.937562							see oh my oh yes there you go
+335.60219	336.308795							there you go
+337.190302	338.029832							oh see look
+342.955076	343.549743							there you go
+345.739517	347.131738							yes oh yes
+348.565936	349.692305							or the telephone
+350.531835	351.161483							yes
+351.868088	352.273861							uh oh
+358.913145	359.591765							it is okay
+362.033399	362.222293							oh
+372.282663	375.332956							there you go yes that is right good job
+377.928504	379.880411							oh let us look at the cube again oh let us
+380.29318	380.468083							do
+380.957808	384.106047	it	17	pronoun	2	0	3	can we solve it can we solve it what do we got we have got
+384.567788	388.849392	that	17	pronoun	1	0	3	oh that has got red and green that has got to go over here
+389.716907	391.137112	that	17	pronoun	1	0	3	and then that is going to come back
+391.717787	393.396847	that	17	pronoun	1	0	3	and then that is going to go over
+394.152424	394.467248							see
+394.908002	395.936426							oh right oh
+396.57307	398.811817	that	17	pronoun	1	1	2	right that is not in the right spot oh
+399.364508	400.301983							oh my goodness
+401.155505	401.393372							oh
+401.841122	402.736621							yes
+404.618567	404.919399							here
+405.493078	409.347921							oh it is okay babyname do not move too much do not move too much look look
+410.208439	411.124926	one	14	one	2	1	1	oh do you want that one
+411.586668	413.118811	one	14	one	2	1	1	do you want that one that is the saw
+413.860396	416.896696	"that, one"	"14, 17"	"pronoun, one"	"1, 2"	"1, 0"	"1, 3"	that is the saw oh oh can we solve another one
+417.778203	419.779083							oh my goodness what else do we have
+420.667586	423.577957							blue and orange it is okay shh it is okay
+424.10966	424.368515							here

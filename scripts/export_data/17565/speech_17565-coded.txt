@@ -1,0 +1,151 @@
+451.924231	452.525807					speechx
+455.053207	455.670409					call speechx
+457.740768	458.361875					no leave that on
+458.936107	459.588466					call speechx
+461.588511	462.033833					papa
+464.533889	465.205779					call papa
+467.026133	467.897246					you do not want to call papa
+469.991043	471.014504					that is a bug
+472.424692	472.580945					yep
+476.178683	476.764633					car
+478.659207	480.256899					and another car do you not have
+480.749098	481.186608					is there not
+481.87803	482.909303					there is the car right here
+484.749188	488.0852	"it, it"	"20, 20"	"pronoun, pronoun"	"2, 1"	oh it does not make any noise it must be out of battery
+489.7493	491.268866	"it, it"	"20, 20"	"pronoun, pronoun"	"1, 1"	yes it is out of battery
+493.483759	495.007231					vocplayx
+497.093216	498.27293					vocplayx
+504.36291	505.343401					what do you do in this bed
+506.405925	507.167661					night night yes
+509.382555	511.909955					does it your baby go to sleep in the bed
+513.988127	515.152216					yes
+516.136613	517.351484					say night night baby
+519.085898	519.535127					baby
+520.851563	521.257822					baby
+524.738369	525.320413					baby
+527.070453	527.769687					vocplayx
+529.043153	531.746339					yes that was the board that we looked at the light
+534.047172	534.754219					yes
+536.17222	537.32459					they were tracking your eye
+540.809043	542.004382					calibrating stuff
+542.992686	543.773953					oh
+544.273965	545.273987	that	30	pronoun	2	that is too far away
+547.559195	547.820919					yep
+548.49281	549.781901					you want your big ball
+550.770205	551.758508					you got a ball
+554.547633	555.582813					and a fish
+557.660985	558.289905					night night
+560.563394	561.094656					fish
+561.55951	562.258744					what does a fish say
+563.176734	563.528304					vocplayx
+563.934563	565.020525					is that what a fish says
+565.829137	566.239303					vocplayx
+566.719782	567.012758					vocplayx
+568.40732	570.450335					remember the pet store we saw fish there
+572.981642	573.497278					ball
+574.14573	574.438706	it	31	pronoun	2	catch it
+576.114525	578.141914					oh no you just messed up the camera
+587.173367	587.396029					mmm
+590.94689	591.220333					oh
+591.751595	592.982092					does the elephant go to sleep
+596.599361	597.228281	it	18	pronoun	1	it is a rake
+600.048657	600.759611					yes night night
+603.001848	603.302637					yes
+609.990287	610.943433					langplayx
+615.13884	616.814659					oh yes what do you do with that hammer
+619.603785	620.299113	it	10	pronoun	1	what do you do with it
+622.178061	622.482756					mmm
+626.541441	626.846135					oh
+628.24851	628.943838					you want me to show you something
+630.39309	630.678252					no
+631.814997	632.162661					okay
+636.236971	637.471374	this	1	pronoun	1	where is your baby yes this is for
+637.904978	638.295611					football
+640.233155	640.631601					look
+641.342555	641.940225	it	1	pronoun	1	watching it
+647.010651	647.409098					okay
+648.127864	649.67868					you do not want your baby to put on a helmet
+651.850604	651.999045					yes
+656.542116	657.073378					baby
+658.311687	659.249208	this	22	pronoun	2	this is a block
+662.686785	662.843039					oh
+666.737658	667.206418					hey can you
+668.933019	670.761186					langplayx
+672.550288	673.132333					langplayx
+678.14807	679.120749	this	17	pronoun	2	can you move this around
+680.073895	681.144232					you can show me
+686.152157	686.714669					yes
+688.792841	689.718643					yes
+691.328055	692.84762					you see all the different color on there
+694.726568	694.988293					there is
+695.515649	696.738333					orange
+697.609446	699.351673					yes and red
+700.429822	700.754048					red
+701.890792	702.617371					where is green
+703.14082	704.093967					you know green
+705.527593	706.695588					yes yes you do
+707.172161	707.672172					green
+708.879231	709.430024					that is green
+711.082405	711.734764					like the car
+712.203524	712.855883	it	17	pronoun	1	it is green
+715.14109	715.434066					mmm
+725.301475	725.836643					yes
+729.907048	730.977384	that	10	pronoun	2	does that one make a noise too
+733.211809	734.563402					no this side makes a noise
+741.911224	742.301858					yes
+743.524541	743.692514					what
+744.501126	744.868322	this	8	pronoun	2	this
+746.337105	746.571485					no
+750.028594	750.813768					snowman
+755.438872	756.364674					a flower
+759.794439	760.587425	it	4	pronoun	2	it is not real
+762.2359	763.130451					what do you do with flower
+766.392243	766.650062					huh
+773.267398	774.126792					you figure that out
+777.318271	777.771406					can you make
+778.314387	779.876922					all the side have the same color
+781.966813	782.302758					can you
+784.701249	785.045007					yes
+787.513812	788.002105					thank you
+790.681852	791.62328					langplayx
+793.152934	793.812297					night night
+795.264338	795.808403					mmm
+799.869073	801.086913					vocplayx
+804.203576	804.589106					mmm
+810.617057	811.438559					ball
+815.063256	816.147783	"it, it"	"24, 24"	"pronoun, pronoun"	"2, 1"	i cannot get it out of there i do not think it comes open
+818.295218	818.745602					mmm
+820.078742	822.842303	it	24	pronoun	2	you used to just stand up in there i guess it would spin around
+823.685423	824.470895	it	24	pronoun	2	but it is broken
+826.193166	827.591161	it	24	pronoun	2	no it does not come out
+831.331156	831.882428					eeyore
+832.437302	833.54705					no there is no eeyore
+845.649791	846.222681	it	7	pronoun	1	it is a rabbit
+848.348497	848.676378					rabbit
+851.23096	851.61649					thank you
+852.185776	853.5009	it	7	pronoun	1	it has got a firefighter
+856.75448	857.547158					yep that is what a
+858.109238	860.332337					fire engine sound like what does a fire engine sound like
+863.921004	864.940675					what does fire engine say
+865.996377	867.174584					no you just said it
+867.675412	868.31676	it	7	pronoun	1	it is a firefighter
+872.23691	874.661782					yes that is what they sound like outside of our house right
+881.356302	882.437226					langplayx
+886.814966	887.668896					play music
+888.439955	889.203808					you making music
+891.210722	891.513381					mmm
+895.098444	895.952374					need a guitar
+898.063778	898.888883					need a guitar
+901.652445	902.783811	that	6	pronoun	2	that is not a guitar
+906.260782	906.797641					mmm
+914.504627	915.236052					mmm
+917.311425	919.170614					you race can you race those car
+919.64622	920.410073	one	19	one	2	watch this one
+920.997375	923.926678	"this, it"	"19, 19"	"pronoun, pronoun"	"1, 1"	this is a monster truck vocplayx it drives over everything
+924.431109	924.59685					vocplayx
+933.258652	933.777495					vocplayx
+937.351749	938.108396					baby
+940.417969	942.093401					oh baby
+944.439005	945.065941					baby
+945.963107	946.15407					mmm
+948.387979	949.360811	it	15	pronoun	2	it has got pant on

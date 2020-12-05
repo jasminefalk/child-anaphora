@@ -1,0 +1,127 @@
+0.713296	1.37904							Where is it going
+1.7238	1.961565							look
+2.377655	2.936404							can you get it
+36.627774	43.677521							what do you want to play with buddy what what do you want to play with do you want to do you want to count the window you do not want to count the window
+44.58103	45.27055							umm
+46.078953	46.673367							do you want to
+47.303445	48.337725							talk on the phone
+49.086686	51.309794							hi babyname hi
+51.987425	52.997929							hi babyname
+53.485348	57.574914							i i have a hat like you do no no no babyname babyname babyname
+58.549753	59.346267							speechx okay
+61.438604	64.042136	these	26	pronoun	2	1	1	yes these are speechx hat
+66.538674	67.465959							what do you see
+68.654787	70.295368							are you looking at the screen
+71.210766	72.363928							where the light was
+74.00451	76.905249							i do not know what you are saying buddy are you looking at the bed
+78.403172	79.259128							bed
+80.079419	81.351464	it	23	pronoun	1	0	3	it is a bed
+82.55218	83.217923	it	23	pronoun	1	0	3	it has
+83.634013	85.155712	it	23	pronoun	1	0	3	nice flower on it
+85.773902	86.986506							what color are they
+87.557143	88.579535							what color are they
+89.732698	90.19634							hey babyname
+90.707536	92.288677							what color are the flower
+94.74955	95.379628							umm
+95.783829	96.544679							these are yellow
+97.281752	97.959384							and these are
+98.648904	99.445418							kind of red
+100.218156	101.537754							red yes
+103.891633	105.235008	that	21	pronoun	2	1	1	that is a ladybug
+106.411947	107.351121							ladybug
+108.658831	110.418296	it	21	pronoun	1	1	2	and it is a red ladybug
+111.595235	113.319035							babyname do you see the helmet
+113.758901	115.054723							do you see the helmet
+116.956847	117.265942							oh
+117.69392	119.061071	it	1	pronoun	1	1	1	yes it is a helmet
+121.41495	125.968159	"it, it, it"	"1, 1, 1"	"pronoun, pronoun, pronoun"	"1, 1, 1"	"1, 1, 1"	"1, 1, 1"	it is a helmet yes no you cannot put it on buddy it is too small okay
+126.538796	129.665412	"it, it"	"1, 1"	"pronoun, pronoun"	"1, 1"	"1, 1"	"1, 1"	it is for some maybe you can put it on the snowman
+130.402485	130.937458							yay
+132.399716	134.289951							the snowman has a helmet
+135.775986	138.926378							the snowman has a helmet like this
+139.687228	140.186536							yes
+141.470469	142.064883	that	15	pronoun	2	0	3	what is that
+145.096393	145.595701	it	15	pronoun	1	0	3	what is it
+146.047455	149.863591	her	15	pronoun	1	1	2	you want to put the helmet on she has her head is too big buddy
+150.398564	152.550341	her	15	pronoun	1	1	2	her head is too big for the helmet
+153.751057	154.702119	this	15	pronoun	1	1	2	is this a girl
+155.641293	156.675573							a girl
+158.839239	160.907798	her	15	pronoun	1	1	2	what color is her shirt
+161.799419	163.416224	her	15	pronoun	1	1	2	what color is her shirt
+164.985477	165.841432							the bed
+166.376405	169.110708	she	15	pronoun	1	1	1	yes maybe she can take a nap on the bed buddy
+170.240094	171.856899	she	15	pronoun	1	1	1	maybe she can take a nap
+172.736632	173.033839							yes
+174.293996	180.701776	"she, her"	"15, 15"	"pronoun, pronoun"	"1, 1"	"1, 1"	"2, 2"	how about she sleep on her back like this she she you want her to sleep on her stomach
+182.11648	182.663341							okay
+183.661956	189.392105	she	15	pronoun	1	1	1	okay she is taking a nap vocplayx
+191.211011	197.285919	"it, it"	"26, 26"	"pronoun, pronoun"	"2, 1"	"1, 1"	"1, 1"	vocplayx no buddy no keep it there keep it there yes keep it there it is ok yes it is ok
+197.83278	198.165651							yes
+199.009719	200.4482	she	15	pronoun	1	0	1	she is taking a nap
+201.161497	201.518145							yes
+202.207665	204.133565	her	15	pronoun	1	0	1	and maybe the turtle is her friend
+207.81893	209.2693	it	1	pronoun	2	1	1	what is it the helmet
+216.877796	220.955474	"her, it"	"9, 9"	"pronoun, pronoun"	"2,1"	"1, 1"	"1, 2"	you know her shell is already really strong it does not need the
+221.419117	222.275072							protection
+223.035922	224.831052	it	9	pronoun	1	"1, 1"	"1, 1"	it does not need more protection
+227.1136	228.623411	this	9	pronoun	1	1	2	see this is really strong
+229.039501	230.644418	it	9	pronoun	1	1	2	it is really strong
+231.226943	231.500374							yes
+232.368218	233.830475	it	9	pronoun	1	1	1	it does not need a helmet
+236.422119	238.490679	"it, her"	"1, 9"	"pronoun, pronoun"	"1, 2"	"1, 1"	"1, 1"	yes you can put it on her head
+242.116603	245.849521	"he, it"	"7, 1"	"pronoun, pronoun"	"2, 1"	"0, 0"	"3, 3"	and look he has a helmet but it is a different kind
+248.072629	250.153077	this	1	pronoun	1	0	3	helmet yes this is a helmet
+250.711826	252.12653	this	1	pronoun	1	0	3	and this is a helmet too
+253.113257	253.386687							yes
+254.111872	255.811895	this		pronoun	2	0	3	do you know what this is
+257.15527	258.783964							yes you can we can try
+260.662312	262.398							we can try
+263.63438	264.811319							turtle
+266.451901	268.104372							it does not quite work buddy
+269.590406	271.088328							it does not quite work
+272.693246	273.882073	this	7	pronoun	2	0	3	do you know what this is
+274.761805	278.506612	"it, it"	"7, 7"	"pronoun, pronoun"	"1, 1"	"0, 0"	"3, 3"	it is a it it is a bunny it is a bunny firefighter
+279.802434	281.157697							a firefighter
+283.796894	286.186437	that	26	pronoun	2	1	1	yes that is your that is your hat
+286.72141	287.422818							hat
+288.635422	289.027735							yes
+289.562707	292.071133	she	15	pronoun	2	1	1	is she hi is she done sleeping
+295.102643	297.218756	she	15	pronoun	1	1	1	she she want to sleep more
+299.085215	300.381037							do you like my hat
+300.880345	301.902737							do you like my hat
+302.758692	304.767811	it	26	pronoun	1	1	1	no no no no keep it there keep it there
+306.051744	306.301398							yes
+307.739879	308.524506	that	18	pronoun	2	1	1	yes what is that
+310.557401	312.816173	it	18	pronoun	1	1	1	yes what color is it
+313.493804	314.123883							what color
+314.932286	316.608532							orange yay
+318.974299	324.514235	this	11	pronoun	2	0	3	yes and this is a red ladybug and another red red ladybug
+325.061096	328.984226	this	14	pronoun	1	0	3	and this is a red saw you can cut thing
+329.959065	332.550709							you can cut thing like this
+335.701102	336.378733							you want to try
+342.73896	343.737575	that	22	pronoun	2	1	1	oh what is that
+345.485152	346.543208	it	22	pronoun	1	1	1	it is a bunny
+348.076796	349.408282	this	22	pronoun	2	1	3	and do you know what this is
+352.66567	354.365693	it	22	pronoun	1	1	1	it is a butterfly right
+355.364308	357.07622	it	22	pronoun	1	1	1	it is a butter yes you can cut it
+357.753851	359.596534	it	22	pronoun	1	1	1	you can cut it with the saw
+362.616156	365.552559							but you do not want to cut the butterfly right
+367.371465	369.808562	it	22	pronoun	1	1	3	yes it is a beautiful butterfly
+370.771512	373.969458	"it, it"	"22, 22"	"pronoun, pronoun"	"1, 1"	"1, 1"	"3, 3"	it is purple that is right it is a purple butterfly
+378.463226	380.828992	this	22	pronoun	1	1	1	pumpkin i think this is a flower
+382.410133	383.289865							flower
+383.789173	385.952839	that	22	pronoun	2	0	3	let us see what else is there what is that
+387.094113	387.343767							oh
+388.247276	389.626316	it	22	pronoun	2	0	3	it is the sun
+390.387165	391.492775	this	22	pronoun	1	0	3	and what is this
+392.931256	393.608888							cut
+394.464844	396.402632							maybe you can cut oh well
+397.163482	402.536982	it	8	pronoun	2	1	1	maybe you can cut the sponge or the cheese let us let us say it is cheese
+403.131396	404.783866							you can cut the cheese
+408.421678	409.669947							cut yes
+410.739892	411.429412							cut
+414.74624	416.184721							there is a car
+416.981236	418.871472							and there is another car
+420.476389	420.95192							yes
+422.782714	426.135207	that	20	pronoun	2	1	1	another car that is right and that is one more car
+426.789063	427.490471	that	3	pronoun	2	0	3	and what is that

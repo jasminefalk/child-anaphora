@@ -1,0 +1,118 @@
+131.195469	134.051037							langplayx
+135.121874	136.33549							vocplayx
+136.977993	138.334388							vocplayx
+140.244048	140.779467							speechx
+141.368428	142.439266	they	3	pronoun	2	0	3	they go langplayx
+143.403019	146.990326							langplayx
+148.775055	150.881036	one	19	one	2	1	1	what did you see oh another one
+151.755554	155.789043	it	19	pronoun	1	1	2	it is a truck you see the truck yeah
+156.485087	157.306063							car
+159.090792	160.215172	that	19	pronoun	2	1	3	car what is that
+161.553719	162.392542							truck
+163.85602	165.212415	this	5	pronoun	2	0	3	and what is this
+167.032839	167.960898							nope do not touch
+168.585553	170.709382							say elephant what sound does an elephant make
+172.065776	174.74287							good job langplayx
+177.152255	178.687123							langplayx
+182.720611	183.844991	one	13	one	2	0	3	and what is this one
+185.326317	187.575076							langplayx
+188.485288	190.466338							langplayx
+191.608565	193.179127	one	3	one	2	1	2	what you want me to do this one
+194.392743	194.838925							okay
+196.213167	197.408936							i will be the blue car
+198.176369	201.085479							langplayx
+202.798819	204.547854							bye byebye 
+205.725775	206.475362	this	21	pronoun	2	0	3	look at this
+210.598087	211.668925	it	21	pronoun	2	0	3	what is it
+213.41796	214.845743							here let me see your hand
+216.166443	217.094503							can you spin
+218.486592	219.842986							here go flat like this
+220.735351	221.645563							can you do flat
+228.730939	229.998097							yes
+230.961851	231.996994							good job
+241.955785	243.776209							there is all sort of fun thing
+252.467842	253.735							we will put the bunny in there
+254.39535	255.412646							byebye bunny
+257.358001	258.35745	it	7	pronoun	2	1	1	where did it go
+261.641352	262.801426	it	7	pronoun	1	1	1	where did it go
+265.817619	267.26325							car car
+269.476315	271.832158	it	7	pronoun	2	1	1	what where is it
+274.884046	276.418913							oh langplayx
+279.060313	279.667121							what
+281.683865	282.790397							langplayx
+284.432349	287.430694							langplayx vocplayx
+288.894172	290.339803	this	6	pronoun	2	0	3	you remember what this is
+295.194268	295.961702							hello
+299.834565	301.851309							no do not touch do not touch no no
+302.618743	303.475413							watch look
+304.135763	305.866951							ring ring hello
+307.740917	310.257385	that	26	pronoun	2	0	3	it is for you no do not touch that say hello
+311.685169	312.559686							say hello
+313.98747	314.879835							byebye
+318.14589	320.626664							hey babyname do you remember where the snowman is
+321.554723	322.393546							where is the snowman
+323.446537	325.945158							yay
+326.676897	328.211765							good job
+329.996494	330.674691	it	6	pronoun	2	1	1	what is it
+331.085179	331.799071							snowman
+332.976992	333.5838							see
+335.689781	337.5459							cold vocplayx
+339.651881	341.882793							vocplayx
+345.470099	347.040661							vocplayx
+349.182337	351.038455							vocplayx
+351.556027	352.841032							it is too hot
+360.800926	362.282252							woah
+365.976642	367.101021							nope do not touch
+368.154012	369.635337	this	9	pronoun	2	0	3	babyname do you remember what this is
+372.365974	373.062018							turtle
+374.668275	375.899738							can you say turtle
+376.774256	378.701764							yeah good job
+379.594128	382.02136							langplayx do not hit the turtle
+382.824489	386.590268							oh poor turtle
+388.803333	390.016949							poor turtle
+390.445284	392.31925	him	9	pronoun	1	1	1	vocplayx do not hit him
+393.889812	395.085581							say hi turtle
+397.655591	399.957892							oh say sorry turtle
+407.989175	409.042166							langplayx
+411.112452	412.058359	this	14	pronoun	2	0	3	oh what is this
+412.736556	413.361211							saw
+413.932325	415.449345							remember how you use a saw
+417.698104	418.037203							oop
+420.660755	422.034997							good job
+422.60611	424.140978							good job
+425.729387	427.407033							you make me a house
+435.009981	436.527001							saw saw
+445.236481	446.200235							good job
+447.94927	450.98331							you see a little girl babyname where is the little girl
+452.161232	452.660956							right here
+453.357001	453.945961							right here
+454.820479	456.444583	she	15	pronoun	1	0	3	she is sleeping in her bed
+460.281751	460.674392							oh
+462.13787	463.85121	her	15	pronoun	1	1	2	what do not hurt her
+465.082674	466.439068							say hi little girl
+468.93769	469.758665	this	22	pronoun	2	0	3	what is this
+483.269068	484.446989	that	2	pronoun	1	1	1	what are you going to do with that
+486.892069	489.462079							what what are you looking for your saw
+492.924455	493.459874							k
+495.565855	497.172111							saw saw saw
+499.652885	500.920043							good job
+505.649577	507.023818	it	2	pronoun	2	1	1	now you are raking it
+508.148198	509.468898							rake all the bug
+512.842037	513.555928							bug
+517.874974	519.998802	her	11	pronoun	2	1	1	he kind of looks like the one that was on our window
+521.301655	522.015547	one	12	one	2	0	3	see this one
+524.050138	524.674794							green
+526.673691	527.40543							green
+529.796967	531.135515							can you say bug
+531.95649	532.848855	it	14	pronoun	2	0	3	it is right here
+536.757413	538.345822							saw oh and you can hammer too
+539.024019	541.076458							vocplayx
+542.307922	544.949321							you are building me a house yay
+556.353743	557.674443							good job
+559.637645	560.976193							can you say house
+563.421272	564.991834							babyname can you say house
+566.723022	567.472608							house
+572.594782	573.344368	that	22	pronoun	2	0	3	what is that
+575.254029	577.467094							sun hot
+578.252375	579.037656							hot
+580.804538	585.087889							oh vocplayx 

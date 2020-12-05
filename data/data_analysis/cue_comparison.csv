@@ -1,0 +1,4 @@
+﻿,accuracy score descriptive stats,,,,
+,mean,stdec,median,max,min
+verbally cued,0.62225235,0.17002487,0.625,1,0.28571429
+visually cued,0.66387,0.17704834,0.666666667,1,0.28571429

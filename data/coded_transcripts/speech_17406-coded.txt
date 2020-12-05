@@ -1,0 +1,172 @@
+162.941837	163.951141	that	6	pronoun	1	is that a snowman
+168.289003	172.01842	"this, this"	9	pronoun	2	babyname look at this do you remember seeing this at the zoo
+173.800808	174.953277					yes soundx
+176.571027	178.840173	it	9	pronoun	1	is that not neat it is just like a turtle
+179.398511	180.243178					only bigger
+180.980471	182.125781	they	9	pronoun	1	they get much bigger
+183.442888	184.566723	that	21	pronoun	1	was that a ladybug
+186.248898	187.823699					yes you have seen ladybugs
+189.24102	189.820833					yes
+190.951827	191.603222	this	5	pronoun	2	what is this
+196.15583	197.14366					elephant
+197.845162	199.097845					elephant
+199.878088	201.316884	they	5	pronoun	1	what does it what noise do they make
+202.777154	203.650453					no
+204.244583	205.554531					you just like the car
+206.520886	207.344078					oh
+208.575286	209.656173	it	0	pronoun	2	pump it up
+210.758534	212.204488	it	0	pronoun	2	it up pump it up
+218.303264	219.441416					ring ring ring
+221.467183	222.075629					babyname
+222.734183	223.399894	this	16	pronoun	2	what is this
+225.647565	226.442124	that	16	pronoun	2	what is that
+229.527303	231.359799	it	16	pronoun	1	yes it is a phone
+232.963233	234.172967					yes you got it
+245.22521	245.97682	that	12	pronoun	2	is that a bug
+247.07918	248.704089	that	12	pronoun	1	is that a really cool bug
+249.527281	249.920981					huh
+252.569511	254.058414	those	12	pronoun	1	you have never seen one of those yet
+254.845815	255.948176	these	12	pronoun	1	we will see one of these
+256.549463	258.18153	one	12	one	1	did you see one at wonderlab
+259.069146	260.572365	"they, these"	"0, 12"	pronoun	1	do they have these at wonderlab
+261.45998	262.497918					mommy cannot remember
+265.983955	266.75704					oh
+270.328976	271.41702	it	21	pronoun	2	it is an instrument
+272.784234	273.822171					is that not neat
+282.12567	283.142132					oh hippo
+284.831465	286.170046					do you have a hippo at home
+288.882999	290.81571					did uncle David get you a hippo
+293.435607	296.327515	she	0	pronoun	1	yes i think Aina took over your hippo did she not
+300.565162	301.552992					you like the music
+302.934523	303.829296	it	0	pronoun	1	pump it up
+304.473533	304.738386					jam
+325.948098	327.71617	she	0	pronoun	2	yes she went in the other room
+328.38904	329.25518	this	19	pronoun	2	look at this
+332.032557	334.251596	that	19	pronoun	1	that is an extreme jeep
+335.640284	337.43699					yes sheep and a jeep
+337.959537	338.983158					go langplayx
+341.001767	343.099116					pretty cool i do not see any sheep here
+344.222952	345.167833					are there any sheep
+348.031108	348.553656	that	24	pronoun	2	what is that
+350.178564	350.715429	it	24	pronoun	2	what is it
+353.972404	356.119861	it	24	pronoun	2	it is stuck in there it stays in there
+358.431955	359.298096					can you say ball
+361.710406	362.48349					can you say ball
+365.124861	365.905104					yes
+366.499233	367.071889					make music
+368.295939	369.369667					are you making music
+374.444822	375.661714					oh
+377.028928	378.095498	this	14	pronoun	2	what is this babyname
+380.758344	383.836365	that	14	pronoun	1	is that just like the woodsman has in sylvester bear
+385.71181	386.721115	"he, it"	"0, 14"	pronoun	1	what does he do with it
+388.610877	389.877876	he	0	pronoun	1	does he cut down the tree
+392.018174	395.94802	"he, he"	0	pronoun	1	does he he cuts down the tree that sylvester is sleeping in does he not
+396.620889	396.978799					huh
+398.260114	399.813441					you are all about that car huh
+409.791955	411.001689					this side does not make noise
+415.325235	416.363172	it	10	pronoun	2	it squeaks
+417.179206	418.532103					your mallet does not sqeak
+420.328808	420.765458	it	10	pronoun	1	does it
+422.905756	423.320931					elephant
+424.179914	425.282275					does the elephant squeak
+427.880697	431.810542					mommy looks like an elephant oh you are right i do
+432.418988	434.816981					i have got a little trunk do i not
+435.962291	436.52063					yes
+438.317335	438.725352					oh
+439.734656	441.402514					i have got that long of a trunk
+442.125491	443.134796					all over the place
+444.516326	447.70172					i am one unfortunate elephant babyname that is the case
+453.335214	454.323044					what does the car do
+454.895699	457.723183	it	20	pronoun	1	what does it do besides play music babyname can you show me
+458.739646	459.161979					can you
+462.089678	463.320886					can you race the cars
+466.305851	468.002341					huh can you race the cars
+471.237843	472.189882					spin the wheels
+475.282219	476.942918					you just want to have a dance party huh
+479.849143	482.855582					i bet when we go home daddy will play some music
+485.496953	486.878484					you do not want to play with these new
+487.494088	488.846985					interesting toys
+494.330157	495.468309	this	17	pronoun	2	can you do something with this
+501.760357	502.197006					huh
+506.470445	508.252833					you do not care as long as it  
+508.932861	509.784686					you got music
+515.117536	516.534857					which color is your favorit
+518.524833	520.020895					what color do you like the best
+521.824758	522.433204					none of them
+523.349452	525.103208					you like the car the best
+528.768201	530.908499	this	15	pronoun	1	what is this is this a little girl
+532.125391	532.91995	this	15	pronoun	1	is this a doll
+533.850514	534.566333					the little girl
+535.704485	536.51336					like is it not
+537.18623	537.708778					yes
+544.88844	548.238472					oh langplayx get out of my way langplayx
+549.390941	550.06381					langplayx
+551.008691	552.11821					yes langplayx
+553.292153	555.346553					now the sheep drive suvs
+557.021569	557.744546					is that right
+558.195512	561.380906					the sheep drive suvs and say get out of our way
+564.136808	564.866944	that	29	pronoun	2	that is a lamp
+566.642174	567.622846	that	29	pronoun	1	yes that is a lamp
+569.992206	570.908454	it	29	pronoun	1	it is pretty cool huh
+571.996499	574.251328	"it, that"	26	pronoun	2	yes it is connected do not touch that
+574.795351	576.155406					we do not want to mess up the data
+576.8927	578.818252					we are doing science remember
+581.975013	582.347239					yes
+583.084532	583.96499	this	7	pronoun	2	do you know what this is
+587.572716	588.832557					what has big ears like that
+591.838997	592.73377	it	7	pronoun	1	is it a rabbit
+596.298548	597.458174					you are not a rabbit
+599.641422	602.69081					you are a little boy and sometimes you are a dragon boy
+606.262746	608.882643					oh look at that big jeep
+609.519721	611.860449					well little jeep with big wheels huh
+614.466029	615.919141	that	3	pronoun	1	that is pretty wild
+617.415203	619.025795	that	3	pronoun	1	is that what you want to drive some day
+623.127437	623.793148					babyname
+628.746615	629.176106	this	18	pronoun	2	what is this
+632.776675	633.843245	those	18	pronoun	2	do you have one of those at home
+636.098074	637.586977	those	18	pronoun	1	do you have one of those at home
+639.820332	640.679314	it	18	pronoun	1	what is it for
+641.974946	643.120256	it	18	pronoun	1	what do you use it for
+647.916243	648.474581	it	18	pronoun	1	is it a rake
+650.221179	651.48102					what do you use a rake for
+653.943437	655.052956	it	18	pronoun	1	what do you use it for
+655.983521	656.477436					you dig
+658.653525	659.426609					you dig with a rake
+661.717229	662.03219					huh
+663.735838	664.508923					is that what you do
+666.527532	667.100187					babyname
+670.264106	673.349285					are you tired did you not have a long enough nap today
+679.720072	680.142406	this	22	pronoun	2	what is this
+686.871102	687.436599	it	22	pronoun	1	it is a block
+689.784485	691.302021	it	22	pronoun	1	yes there is a hole in it
+693.71433	694.480256	it	22	pronoun	1	it squeaks
+695.052911	695.904736	it	22	pronoun	1	can you make it squeak
+698.25978	699.626994	it	22	pronoun	1	can you do it yes
+700.579033	701.667077	it	22	pronoun	1	you made it squeak
+702.468794	703.320619					good job
+704.372872	707.135933					oh new toys huh
+711.144518	711.767281	this	23	pronoun	2	what is this
+716.534634	718.374289	those	0	pronoun	2	those are phone jacks
+719.168847	721.380728	them	0	pronoun	1	we put telephone wires in them
+727.450871	728.76082	these	4	pronoun	2	where do we find these
+731.001332	731.552513	this	4	pronoun	2	what is this
+733.642704	734.766539	that	4	pronoun	2	huh what is that
+740.49309	741.989151	that	4	pronoun	1	is that a plant
+743.599744	745.611194	they	4	pronoun	1	yes plants are outside are they not
+748.223933	749.032808	that	23	pronoun	2	oh what is that
+750.664875	751.144474	it	23	pronoun	1	what is it
+753.384987	754.079331	that	23	pronoun	1	do you know what that is
+761.309101	762.232507	it	23	pronoun	2	you drive it around
+763.792992	764.637659	bed	23	pronoun	1	it is a bed
+765.346319	766.405731					what do you do with a bed
+767.014177	768.467289					yes you go to sleep
+770.442949	771.645525					who would fit in that bed
+772.604722	775.138721					out of all of these toys who would fit in that bed babyname
+778.266849	779.634063					phone needs to go to bed
+782.168061	784.809433					is that right the phone needs to go to bed
+790.5503	791.294751					yes
+792.969767	794.079286	it	0	pronoun	2	it is not a phone
+795.475133	798.030606					have you seen people with the phones like this
+799.018436	800.886723	they	0	pronoun	1	they talk into the little microphone
+803.442197	804.007693					no
+807.780059	809.469391	she	15	pronoun	2	would she like to go to bed

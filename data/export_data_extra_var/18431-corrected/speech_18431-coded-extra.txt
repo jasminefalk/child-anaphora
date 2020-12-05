@@ -1,0 +1,134 @@
+216.830923	217.568339							you got one too
+218.293464	220.450405							langplayx crash oh no
+221.851495	222.281654							careful
+226.37431	227.369822							hey i want to play too
+232.163023	232.912729							crash
+233.766902	234.756268							okay careful let us see
+235.407652	236.630533							should we have the car drive home
+237.085273	238.498653							there is a building over here let us see
+239.180762	239.401987							ready
+240.299176	240.925979							drive home
+241.860039	242.990743							langplayx
+244.717524	245.282876							who lives here
+248.373877	249.209615							there we are home
+250.659865	251.139186	this	21	pronoun	2	0	3	what is this
+252.927419	253.486625	this	21	pronoun	1	0	3	do you know what this does
+256.092161	256.577626							what do you think
+258.132344	259.047968	it	21	pronoun	1	1	1	does it make good noise
+259.459692	260.049625	it	21	pronoun	1	1	1	spin it like this
+261.100442	263.429446	it	21	pronoun	1	1	3	spin it yeah good job you like this
+265.359017	265.991966							good
+270.729861	271.436551							what else do you see
+273.034285	273.157188							oh
+273.771701	274.337053							hello
+275.301838	276.057689							somebody calling you
+276.862701	277.249844							who is it
+277.698439	278.220775							is it grandma
+279.443656	280.088895							hi grandma
+282.368738	283.069283							can you talk to grandma
+288.544594	289.288155							yeah
+290.4926	291.832239							what are on the what are those button
+293.860132	294.98469							are you pushing everyone out of the way
+295.90646	297.350566							look let us build a snowman at our house
+300.693516	302.567781							and we have got an elephant
+304.263837	304.995108							turtle
+308.872685	310.009534							langplayx
+311.244705	311.748606							turtle
+314.54464	315.079267							too big
+316.209971	318.237864							look i think the bug wants to sleep in the bed
+319.147343	320.370224	it	23	pronoun	2	0	3	is it good place for the bug to sleep
+322.514874	322.865147							no
+326.736579	327.437124							what about the
+327.928734	328.653859							the praying mantis
+330.09182	330.82309	he	12	pronoun	1	0	3	can he sleep in the bed
+332.740371	333.078353							no
+333.496222	334.768264							oh who should sleep in the bed
+335.253729	335.714614							oh i know
+336.138628	337.226316							i found somebody to sleep in the bed
+337.63804	338.529084	it	15	pronoun	2	0	3	look it is a girl
+340.108382	340.913394	she	15	pronoun	1	0	1	can she sleep in the bed
+341.749132	343.432898							vocplayx
+343.949089	344.520586	she	15	pronoun	1	0	1	is she tired
+345.921676	346.560769							yeah
+353.455605	354.113134							you want to build with the block
+354.518713	355.170097	one	24	one	2	0	3	here here is another one
+356.417558	358.574499	one	22	one	2	0	3	can you build the block together there is another one back here
+359.778944	363.177202	one	24	one	2	0	3	oh yeah there is a ball in that one want to put make a big tower there is another block over there
+365.315707	366.716797	"one, one"	"22, 22"	"one, one"	"2, 1"	"0, 0"	"3, 3"	this one can you use this one too
+369.801652	370.569793							langplayx
+371.423966	371.589885							here
+372.425623	372.904943	them	17/22	split	2	0	1	can you stack them
+375.449027	376.100411							what is inside there
+378.337238	379.148395							a ball
+389.840922	390.418564							did i get your knee
+394.892219	395.88773	it	24	pronoun	2	1	1	no it does not open
+396.299454	397.03687	it	24	pronoun	1	1	1	it stays closed
+397.964784	398.7022	it	24	pronoun	1	1	1	you can shake it though
+403.040662	403.427805							let me see
+405.449553	406.168533							what else is in here
+407.145609	408.085814							just a ball that is it
+409.585226	410.894138	"it, it"	"24, 24"	"pronoun, pronoun"	"1, 1"	"1, 1"	"1, 1"	that is all shake it shake it
+414.99294	415.69963							what else do we have
+418.50181	420.548138	it	26	pronoun	2	0	3	oh does it spin around
+422.207323	424.339684							spin spin spin see the spinning
+425.525694	426.607237							spin spin spin
+431.584792	432.156289							yeah
+446.972198	447.930839							yeah you see olaf
+450.413471	451.003404							do not touch your hat
+452.121818	453.246376							let us build a big tall tower
+454.444677	455.636832							what else can we put on our tower
+458.783139	459.895407							do you think the turtle go on there
+460.96466	462.15067	it	9	pronoun	1	1	1	no it is too big
+462.869651	465.210945							maybe we can put the snowman on top you want to try put the snowman on top
+467.595256	468.105302							too big too
+468.756685	469.92426	"him, one"	"9, 8"	"pronoun, pronoun"	"2, 2"	"0, 0"	"2, 1"	can put him on top of that one
+470.335984	470.587934							try that
+472.505215	473.660499	that	24	pronoun	2	1	1	you want to put that on there okay
+478.521297	479.203407	he	7	pronoun	2	0	3	can he stand there
+480.801141	482.251392	he	7	pronoun	1	0	3	think he can stand on top of the tower
+483.148581	485.336247	he	7	pronoun	1	0	1	wow he is standing on top of the tower
+487.142915	488.242894	him	7	pronoun	1	1	1	no you do not want him on there
+488.943438	489.600967							winnie the pooh
+492.753419	493.011515							rabbit
+493.705914	494.357298							from winnie the pooh
+496.858366	497.829297							is winnie the pooh on this block
+498.499116	498.769502							let us see
+500.287349	500.490138							nope
+503.556558	504.343135							no winnie the pooh just
+504.822455	505.344791							just a rabbit
+507.046992	509.160917	that	22	pronoun	1	0	1	but you are right that is the rabbit from winnie the pooh
+513.112236	515.637885							speechx too big uh oh the tower is going to fall down
+520.941132	522.077981							see if you can find all the car
+522.501995	523.804763							can we drive the car ready
+524.529888	525.691318	them	3/20/19/13	split	2	0	3	langplayx and park them
+527.356648	528.223111							langplayx
+528.62869	529.298509	them	3/20/19/13	split	1	0	3	park them in a line
+530.134247	531.559917							on top of the tower oh crash
+533.126925	534.116291							wow crash
+536.420715	537.582145							crash boom bang
+540.556388	541.545754							mmm that is fun oh
+542.977569	543.684259							yeah
+545.927232	546.32052							let us see
+547.924399	548.588073							you want the hat
+549.141135	549.896986							who does the hat go on
+551.101432	551.7098	it	1	pronoun	2	1	1	does it fit you
+553.799144	555.550506	it	1	pronoun	1	1	1	no it is too small is not it
+557.099079	557.928671	it	1	pronoun	1	1	1	who do you think it might fit
+560.411304	562.217972							nope it is too small for me too
+562.703438	563.490014							maybe this girl
+564.23972	566.13242	her	15	pronoun	1	0	3	do you think she her head would go in there want to try it
+566.937432	567.201673							let us see
+569.014486	569.518387							squeeze
+572.154648	572.560227	it	1	pronoun	1	1	2	does it fit
+574.170251	574.864651							kind of
+576.099822	576.321046							oh
+578.508713	580.02656	"her, it"	"15, 1"	"pronoun, pronoun"	"1, 1"	"0, 0"	"2, 2"	too heavy for her head is not it
+580.911459	581.335473	she	15	pronoun	1	0	2	she says
+582.017582	582.908626							oh i am squished
+587.062734	588.512985	her	15	pronoun	1	1	1	too small for her too
+590.590039	591.505663	her	15	pronoun	1	1	1	okay let us take her out
+592.574916	593.232445							ouch
+595.09442	596.470929	"her, her"	"15, 15"	"pronoun, pronoun"	"1, 1"	"0, 0"	"2, 2"	can give her a hug make her feel better
+598.289887	599.783154							say it is okay no you do not feel like it
+600.391522	600.594311							okay
+606.671845	608.281869							langplayx

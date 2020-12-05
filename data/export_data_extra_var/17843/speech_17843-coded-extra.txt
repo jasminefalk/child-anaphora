@@ -1,0 +1,173 @@
+262.361697	263.709481	this	13	pronoun	2	1	3	oh what is this
+264.580357	266.612401	it	13	pronoun	2	1	1	speechx it is a car
+269.225028	270.012963							you want to play with
+273.600142	273.911169							oh
+274.346607	274.76131	it	5	pronoun	2	1	1	what is it
+276.026153	277.14585							langplayx
+278.783926	279.634067	that	5	pronoun	1	0	3	that an elephant
+281.894197	282.599192							elephant
+283.449332	284.320208							what else do you see
+286.082695	287.264598							what else do you see here
+288.674587	289.213701							oh
+292.303236	293.008231	it	15	pronoun	2	0	3	what is this
+294.874393	296.823496	"that, she, she"	"23, 15, 15"	"pronoun, pronoun, pronoun"	"2, 1, 1"	"1, 1, 1"	"1, 1, 2"	oh is that where she goes is she going night night
+298.420102	299.66421							go night night on the bed
+306.320189	307.12886							night night
+308.414438	308.683995							oh
+309.720752	310.363541							langplayx
+312.748082	313.328666							langplayx
+317.123196	317.537899	that	3	pronoun	2	1	1	what is that
+319.528472	320.81405							the baby going to go in the car
+321.830072	322.431391	she	15	pronoun	1	1	1	does she fit
+325.002548	326.01857							there in the bed
+331.948819	332.674549							oh it is oh
+333.545425	333.939393							okay
+340.616107	341.445512	that	21	pronoun	2	0	3	does that make noise
+344.576518	345.177837							can you play
+345.758421	346.795178							want to do the ladybug
+347.334292	348.101492							langplayx
+351.833816	352.663222							langplayx
+355.814963	356.499222							speechx
+356.976131	357.743331							another car
+362.802704	363.362553							in the block
+367.074143	367.903548							what else oh
+368.421927	368.898835	that	4	pronoun	2	0	3	what is that
+370.018532	370.516176	that	4	pronoun	2	0	3	what is that
+372.071311	372.859246	that	4	pronoun	1	0	3	is that a flower
+374.227765	374.870554							flower
+376.633041	377.462447							and leaf
+380.448306	381.339917							another block
+385.051507	386.440761							oh more car
+391.230578	392.184394	one	20	one	2	1	1	where to put that one
+393.635854	394.942168	it	20	pronoun	2	1	1	yes is it off
+396.0826	398.031703	one	20	pronoun	1	0	2	i do not think the button work on this one
+399.503898	401.681087							can you make a noise what do you think the car says
+404.148569	405.268266	it	20	pronoun	1	1	1	does it say langplayx
+407.238104	408.710299	one	20	one	2	1	1	baby going to ride on that one
+414.350257	415.988332	that	23	pronoun	2	1	1	i do not think that comes off
+416.42377	416.879943							think that
+417.315381	418.538754							sheet is glued on
+421.607555	422.810193							what else have we got here
+424.282388	424.738561							what is
+425.194734	425.816788							ball
+431.124983	431.871448							how about a hat
+432.431297	433.965697	that	1	pronoun	2	1	2	is that a hat to go on the snowman
+437.221113	439.688595							you put the hat on the snowman see oh
+440.331384	440.870498							how about
+442.342693	442.923276							that way
+444.519882	444.830909							yes
+447.360596	447.775299							no
+451.155126	453.000553							maybe snowman do not wear helmets
+453.747018	454.348337							baby
+455.592445	456.442586							the baby is right here
+457.83184	458.536835							the baby
+459.946824	460.548143							on the block
+461.54343	462.186219							in the bed
+465.731928	467.183387							what else should the baby do
+470.666891	471.952469							do we stack some block
+472.823345	473.52834							by the baby
+476.306848	477.2814							wow
+479.023151	479.997703							uh oh
+481.490632	482.672535							you going to make a tower
+491.360558	492.37658							wow
+494.076861	494.989207							another block
+496.834634	497.415218	one	22	one	2	0	3	want this one
+503.200322	504.361489							no not that block
+509.939241	510.955263							you got it
+514.418031	514.915674	that	10	pronoun	2	0	3	what is that
+516.989188	517.631977	that	10	pronoun	1	1	1	is that a hammer
+518.212561	518.917556							hammer hammer
+525.677211	526.257795	tit	10	pronoun	1	1	1	does it squeek
+527.315287	528.165427							langplayx
+533.971266	535.194639							can you hit the block with the hammer
+539.652694	540.419894							the baby
+546.433084	547.013668							speechx
+549.253062	550.476436							is baby taking a nap
+554.85155	555.224782							langplax
+562.48208	563.518837							what else do you see
+565.364264	565.986319							that is just
+567.935422	568.598946							bed
+571.5226	572.455682							hello
+579.07019	580.272828							do i have something on my head
+583.735596	585.76764	it	26	pronoun	1	1	1	yes same with you but i leave it alone though
+587.924094	588.504678							uh huh
+589.313349	590.847749							the ladybug langplayx
+591.884506	594.165371	one	21	one	2	0	2	langplayx should i shake this one you shake the phone
+596.197414	597.130495							langplayx
+597.690344	598.312398							hello
+599.494301	600.323707							who is on the phone
+602.894864	603.662064							speechx car
+609.509373	611.105978							yes the button do not work
+613.262433	614.755362	it	20	pronoun	2	1	1	it does not make any noise
+620.43679	621.639428							hat yes
+622.178542	623.42265							we are going to leave the hat on for a little bit
+628.440553	628.896726							out
+635.386824	636.444316							babyname is at school
+644.53102	644.987193							hi
+651.000383	652.203021							what is the baby going to do
+653.322719	654.546092							yes the baby
+656.889162	658.195476	that	23	pronoun	2	1	1	that does not come off
+658.77606	659.812817	it	23	pronoun	2	1	1	it is glued on
+664.416017	665.908947	she	15	pronoun	2	0	1	oh is she going to sleep on the bottom
+668.708191	670.284061							trying to move some of the other toy
+672.108753	672.896689							there you go
+675.384905	676.235046	her	15	pronoun	1	0	1	what is on her bed
+677.769446	678.578116							those flower
+684.798658	685.89762	it	4	pronoun	2	0	3	it is another flower
+689.049361	689.443328							there
+690.977729	692.076691							is the baby sleeping
+692.553599	693.48668							shoe yes
+697.944735	698.815611	that	17	pronoun	2	1	1	that twists
+699.4584	700.557362							those block turn
+703.771309	705.036152	they	17	pronoun	2	1	1	they do not come off
+706.715698	708.104952	"they, they"	"17, 17"	"pronoun, pronoun "	"1, 1"			they twist but they do not come off
+711.858012	712.563007							what is in there
+713.102121	714.449905							what is inside that block
+718.244435	720.048392	"they, they"	"17, 17"	"pronoun, pronoun "	"1, 1"	"1, 1"	"1, 1"	they do not come off they just turn
+724.340565	725.439527							you want to fix something
+726.040846	726.932457							and langplayx
+727.533776	728.632739							what can fix the house
+729.130382	729.959788							vocplayx
+733.629907	734.314166							langplayx
+737.631788	738.295313							langplayx
+739.808978	740.990881							vocplayx
+741.426319	742.338665							you want to fix the house
+743.831595	744.432914							the saw
+745.614816	746.547898							saw saw
+750.093606	751.856093							i do not think there is anything in there
+752.602558	753.328288	it	26	pronoun	2	1	1	i think it is empty
+755.132245	756.189737							is is probably for book
+764.1935	764.877759							langplayx
+773.254755	773.545047							oh
+774.68548	775.141653	that	11	pronoun	2	1	1	what is that
+776.613847	777.111491							bug
+778.023837	778.832507	that	1	pronoun	2	1	1	that is a big bug
+780.885286	781.237783							what
+782.689243	785.156724	one	11	one	2	1	1	mmm i do not think anything comes off of that one
+788.743903	789.8636							the bug arm
+803.735407	804.295256							hammer
+808.317873	808.794781							baby
+810.88903	811.469614							baby
+813.14916	814.248122							what is baby doing
+818.43662	819.784404	her	15	pronoun	1	1	2	what does the baby have on her shirt
+820.385723	820.862631	that	15	pronoun	2	1	1	what is that
+822.355561	823.205702	that	15	pronoun	1	1	1	is that a flower
+827.47714	828.534632	these	15	pronoun	2	1	1	yes what are these
+830.110503	830.587411							pants
+832.826806	834.070914	"that, her"	"15, 15"	"pronoun, pronoun"	"1, 1"	"1, 1"	"1, 1"	that is a flower on her shirt
+838.674114	839.233963							head
+843.111434	843.754223	these	36	pronoun	1	0	3	what are these
+845.51671	846.553467	those	36	pronoun	1	1	3	those are shoe
+847.921986	849.497856							shoe where are your shoe
+850.347997	850.949316							pants
+852.359305	852.919154							and a shirt
+855.635457	858.621317	that	23	pronoun	2	1	1	yes we cannot get baby under there that is glued on
+861.627912	862.954961							shoe where are your shoe
+864.634507	865.235826							head
+866.168907	866.708021							uh huh
+868.677859	869.839026							where are baby eye
+870.689167	871.539308	her	15	pronoun	1	1	1	where is her eye
+872.67974	873.488411							eye
+875.043546	875.478984							where is
+875.893687	876.764562	her	15	pronoun	1	1	1	there is her eye
+877.345146	878.444109							where is baby mouth

@@ -1,0 +1,77 @@
+111.417583	112.143744					langplayx
+112.734296	113.530449					found the crew
+114.160371	114.855911					vocplayx
+116.723807	117.419347					what are those babyname
+119.134136	119.79468	that	14	pronoun	2	oh what is that
+121.929418	123.202387					oh a saw
+124.19539	124.873432					now start cutting
+125.643338	125.953925					nice
+128.119284	128.902313					house
+130.039674	130.599605					elephant
+132.795586	133.867329					spongebob
+135.179668	136.911956					and turtle
+139.326659	140.345909	that	24	pronoun	2	there a ball in that
+140.949585	141.417653					this way
+142.95309	144.156067					mommy has not been sleeping
+145.162194	146.955724	it	7	pronoun	1	look it is a firefighter bunny
+148.114956	149.67664					the bunny is really scary
+150.604026	152.778134	it	17	pronoun	2	nice you have got one of those turn it
+153.38181	154.431681	it	17	pronoun	1	it is tricky oh
+156.260207	157.156972	it	17	pronoun	1	yes it is tricky
+158.758026	159.597923					work so hard
+160.389701	161.4177					work really hard oh
+162.353835	162.751911	it	17	pronoun	1	turn it
+170.057265	170.967153					green car
+184.383632	187.161417	that	39	pronoun	2	oh let us stay over here i know you saw that
+187.738846	190.258537					big toy over there but we are going to play with these
+190.949702	191.828969					look at this bed
+192.607624	196.098445					should we put the elephant in the bed nighty night
+199.143072	202.283937					i know so many interesting toys there
+202.817621	203.618148	that	4	pronoun	1	is that a flower
+206.457175	207.275199					a flower
+212.375824	214.059992	that	39	pronoun	2	what is that what is there
+216.120364	216.693419					what is there
+218.60506	219.081876	it	39	pronoun	1	what is it
+219.996139	220.630436					a big truck
+221.811541	223.469463					that what you see a big truck
+224.882415	227.139638					yes but we are not going to get the big truck right now
+227.550837	229.011908					we are going to play with these toy
+332.345483	333.79343					you do not want to hurt the rubik's cube
+338.955297	341.453115					here try spongebob can i have a spongebob
+342.428621	342.831071					babyname
+345.89757	346.820582					can you make some music
+347.227407	347.81796					can mama try
+350.853837	352.192423					vocplayx
+357.205558	357.839855					red
+360.49078	361.706881					can i scooch you a little
+362.73488	364.405925	one	12	one	2	look i will put this one in front of me
+366.129463	369.327196	it	3	pronoun	2	there is the preying mantis oh you are on the car here let us hold it
+370.845135	372.419942	she	15	pronoun	2	do you think she can ride on the car
+373.469813	373.999123	it	3	pronoun	2	sit on it
+374.852143	379.620309					langplayx
+381.663183	383.80667	"her, it"	"15, 3"	"pronoun, pronoun"	"1, 1"	want to make her ride on it vocplayx
+384.716558	386.212625					speechx
+389.436604	391.807564					vocplayx
+394.314131	395.346504					see the car
+395.858317	396.422622					uh huh
+397.936187	398.841701	one	20	one	2	that is another one
+400.880201	401.45763					what is that
+405.315907	407.319411					you want to look at the trying to go inside
+407.756857	409.755987					i do not think this house has much of an inside
+410.818981	411.628257					there is a door
+412.861856	413.653634					can not open the door
+414.572271	416.037716	it	14	pronoun	2	it has got a different scale on the back
+423.014985	423.658032					oh bless you
+424.274831	425.062234					oh bless you
+426.829518	428.426197	"that, it"	"3, 3"	"pronoun, pronoun"	"2, 1"	yes look at that it is green
+431.273972	432.446329					oh sniff the flower
+433.776165	434.086752					oh
+436.518954	438.561828	"these, they"	"4, 4"	"pronoun, pronoun"	"1, 1"	these do not smell good they are just pretend
+439.97478	440.858422					just pretend
+457.778846	459.734231					you want a big car to drive down the house
+460.674741	461.623999	it	3	pronoun	2	or do you want to balance it
+462.087693	462.892594	it	3	pronoun	1	can you balance it
+463.299419	465.565391	he	3	pronoun	1	vocplayx he fell down try again
+466.755245	468.754375	he	3	pronoun	1	vocplayx he fell down try again
+472.096465	472.74826	one	21	one	2	now this one
+474.410556	474.738641	one	21	one	1	this one

@@ -1,0 +1,133 @@
+144.807936	146.116747					were you going to put the boat back
+295.431784	296.473303					what did you find
+298.869717	299.422736					rake
+301.035707	301.782282					car
+302.823801	304.151045	it	20	pronoun	2	oh it has got button
+305.137262	306.639629					what happens if you press the button
+307.128129	308.215732					mmm makes noise
+310.32642	311.349505					langplayx
+314.56623	317.239154	it	20	pronoun	1	scratch it can you turn it
+322.437529	323.211755	that	20	pronoun	1	is that a car
+325.138103	326.437697					no can you say car
+332.170657	332.668374					langplayx
+333.396515	334.373515	it	6	pronoun	2	it is a snowman
+337.120174	338.299947	his	6	pronoun	1	going to hammer on his head
+340.401418	341.442937	he	6	pronoun	1	does he need fixing
+356.55878	357.913676					camera works better oh
+361.849325	362.614334					langplayx
+367.010833	367.646804					all fixed
+370.163039	371.020218	it	6	pronoun	2	it is fixed
+371.77601	372.310595	this	23	pronoun	2	look at this
+373.895915	374.485802	this	23	pronoun	2	what is this
+376.439801	377.048121					a bed
+379.112724	380.25563					someone lay in the bed
+381.794865	383.324883					should we put dolly night night
+385.334184	386.265099					night night dolly
+387.232882	388.228315					can you say night night
+390.265267	390.827503					night night
+391.795286	392.873672					time to wake up
+394.449775	395.316171					hi babyname
+397.482161	398.542113					my name is babyname
+400.385509	401.270339					can i have a hug
+404.026215	404.413328					no
+410.855995	413.16024					what else do you want to play with there are some animal here
+414.902249	415.602739					another car
+416.054371	416.893116					langplayx
+418.80103	420.045322					i have a car too
+420.690511	421.741246					we have two car
+423.851934	425.059358					blue and green
+426.036358	427.013357	yours	20	pronoun	2	yours is white
+429.07796	430.14713					makes noise oh
+450.60882	451.816244					put dolly to bed
+455.724243	458.59994					oh here is another tool oh you have a saw too
+459.411034	460.701411					saw and a hammer
+466.111776	467.429804					you going to saw your leg
+468.655662	469.236332					ow
+471.171897	472.333236					you need some surgery
+475.540745	475.918641					no
+479.513262	480.895809					you can rake the carpet like this
+485.356826	485.707071					rake
+491.071352	492.933181	that	18	pronoun	1	we have one just like that at home do not we
+494.168256	495.799661	it	18	pronoun	1	you play in the birdseed with it
+496.426416	497.099255					and the dirt
+501.320631	501.763046					bed
+511.367137	511.920155	that	21	pronoun	2	what is that
+514.021626	514.869588					ladybug
+518.1877	518.556379					yes
+519.77302	522.095699	it	21	pronoun	1	if you shake it it makes noise there you go
+522.934444	523.293906					oops
+525.20182	526.501414					makes noise does not it
+529.284941	531.285025					i can find something that makes noise too
+532.971732	534.271326	this	22	pronoun	2	this makes noise
+534.861213	535.856646	this	24	pronoun	2	oh this makes noise
+539.801513	541.764729					maybe we can stack some blocks
+547.175095	547.663595					speechx
+552.124612	552.46564					yes
+553.756017	555.046394					do you speechx
+557.083346	559.055779	one	17	one	2	that is a big one oh langplayx
+560.816222	561.848523	all	8/17/24	split	1	all fell down
+567.968596	570.162237	it	8/17/24	split	1	it is kind of hard to stack on the carpet is not it
+576.641772	577.674074	it	8/17/24	split	1	it will not stay
+583.895534	584.614458					langplayx
+587.978655	588.540891					speechx
+589.905003	592.218465					wow three block high
+593.241549	594.126379	it	8/17/24	split	1	now knock it over
+595.13103	595.619529					langplayx
+598.854688	599.555179					do it again
+611.481948	612.477381					yes you have a hat on
+632.69943	633.234015					goodness
+634.911505	635.787118					done with the block
+637.307919	638.054494					do something else
+638.773419	639.731984					yes do not worry about that
+642.266653	643.455643					here is a turtle
+645.299039	646.294472					turtle turtle
+646.801406	647.630934					and a house
+648.644802	649.732405					is that the turtle house
+653.5298	655.234941	his	9	pronoun	1	turtle has a house on his back
+656.516101	657.861779	his	9	pronoun	1	his shell is his house right
+660.75591	662.885032	"he, his"	"9, 9"	"pronoun, pronoun"	"1, 1"	maybe he lives there with his friend elephant
+672.949972	674.406254					an elephant on the house
+683.319072	685.116382					a saw can you saw the house
+686.406759	687.190202					fix the house
+692.545266	693.734256					fix the turtle shell
+696.536218	697.485566					fix the elephant
+699.27366	700.140056					fix the car
+701.670074	702.62864					and the dolphin
+703.577988	704.573422					and the flower
+706.472119	707.283213					and the block
+708.914619	709.817882					and the car
+711.421636	712.195863					another block
+712.924004	714.122211					block block block
+726.26097	728.002979					oh oops leave your hat on
+736.261391	736.980315					hello hello
+737.450381	738.012617					who is there
+738.749975	739.441248					it is grandma
+740.160173	741.837663					grandma wants to talk to babyname
+746.289463	746.612057					oops
+748.252679	749.284981					speechx over here
+750.501622	751.23898					hi grandma
+752.345017	753.239064					how are you
+755.027158	756.050242					can you say i am good
+757.681647	758.087194					good
+760.243967	761.147231					can you say grandma
+765.340956	765.87554					byebye
+770.963312	773.212255					what is in that block is there something in there
+774.474981	775.45198					there is
+777.71014	778.834611	it	8	pronoun	2	it says something
+781.267893	782.023685	it	8	pronoun	1	what does it say
+784.696609	785.553788	it	8	pronoun	1	it says
+787.821164	789.341965					oh barnacle no
+790.779814	791.581691					no
+791.987238	793.037974					your favorite word
+795.591076	796.337651					dolly
+802.328687	803.6928					look over there there is a helmet
+803.914007	805.444025					do you want to put helmet on dolly
+807.103081	808.660751	"that, her"	"1, 15"	"pronoun, pronoun"	"1, 1"	do you want to try to put that on her
+814.734739	815.508965	it	1	pronoun	1	will it fit
+817.942247	818.81786					do you need help
+824.937933	825.997886					okay here let us try it
+826.781329	828.504903	her	15	pronoun	1	we have got to put her hair down in there
+833.251647	834.892269	she	15	pronoun	1	now she is a football player
+836.403853	838.035258	it	1	pronoun	1	look at that it does fit
+842.855738	843.169115					see
+843.583879	844.090813					i see

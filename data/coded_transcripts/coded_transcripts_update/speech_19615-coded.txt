@@ -1,0 +1,74 @@
+203.742447	205.388882	this	10	pronoun	1	oh is this a squeaky hammer
+206.013988	207.575793					you have a squeaky hammer at home
+209.554977	209.941581					up
+217.841006	218.400717					tap tap
+222.370624	222.672599					speechx
+226.727137	227.479188					oh my goodness
+230.20273	231.162509	that	24	pronoun	2	what is that what is in there
+233.509063	233.982221	that	24	pronoun	1	what is that
+236.449949	236.638443					speechx
+244.637884	245.541885					oh you get babyname
+247.598005	248.861682	that	3	pronoun	2	oh is that a car
+250.263844	250.613904					oh
+252.696951	253.366296	it	3	pronoun	1	is it a car
+258.753754	260.063593					do you see the big tree outside
+260.70601	261.24841	it	0	pronoun	2	do you see it
+262.252428	262.467849					hey
+265.08368	266.905144	that	22	pronoun	2	oh my goodness is that the trix rabbit
+268.374626	270.146082	this	22	pronoun	1	oh no that is silly this is from
+271.26935	271.844448					winnie the pooh
+272.986951	274.829573	it	26	pronoun	2	yes oh let us leave it on hey
+275.595088	276.18365					that is okay
+337.013257	337.544117					what do you got
+338.273088	339.003981					vocplayx
+340.31382	341.777531	"it, this, it"	"19, 20, 19"	"pronoun, pronoun, pronoun"	"2, 2, 1"	is it a truck like this is it a car
+342.685379	343.906741					vocplayx
+345.049243	345.94555	it	20	pronoun	2	is it like your car
+346.505261	350.759833					langplayx oh langplayx
+355.049026	355.551035					babyname
+359.307445	360.79616					yes langplayx
+363.261966	363.99863					what do car do
+367.222256	368.051244					langplayx
+372.86745	373.734906					oh yes
+374.823553	375.664081	that	14	pronoun	2	is that a red saw
+378.266448	378.828082					cool
+383.755846	384.713702					would you do that
+386.110094	386.35629					oh
+388.691303	389.76264					oh yes
+390.585857	391.543713					do you cut the flower
+400.020159	400.849146					you see the red saw
+401.953181	403.690016					yes look i have a hammer
+406.507804	407.983056	it	10	pronoun	1	it is a lot like your hammer at home
+415.388165	416.230616	it	1	pronoun	2	does it look like a cup
+417.621238	418.761817	that	1	pronoun	1	does that look like a cup to you
+421.577682	421.891197					yes
+423.243351	423.647266					hey buddy
+424.158892	424.90325	they	14/1	split	2	they are both red
+435.56853	436.428292					oh babyname
+560.541772	561.034163					yes
+562.701755	563.074896					oh
+565.909995	566.769757					nice
+572.145674	572.949657	that	23	pronoun	2	what do you think that is
+574.471071	575.33468	that	23	pronoun	1	is that to go night night
+577.186919	577.887038					night night
+580.372077	580.637507					oh
+583.990002	587.007825	it	23	pronoun	2	no i do not want i do not think we should break it necessarily
+588.138787	588.540778					yes
+591.006584	591.17392					oh
+591.708626	592.201018	that	7	pronoun	2	what is that
+594.943794	595.395794					bless you
+596.44982	597.355744					oh bless you
+599.267608	600.502434					lot is here
+602.502775	603.87801					do you think the snowman is tired
+605.778334	608.355697					no maybe the preying mantis oh
+610.363732	612.887239					say night night oh night night
+618.467037	618.820944					yes
+619.390272	619.576842					oh
+620.019225	621.732979	this	11	pronoun	2	is this like a big ladybug
+622.83509	623.939124	this	11	pronoun	11	is this a big lady bug
+625.475925	625.724044					oh
+631.011485	631.148046					oh
+635.042942	636.014261					neat flower
+645.033107	646.056359	they	4	pronoun	2	do they tickle your face
+646.919968	648.016308	they	4	pronoun	2	do they tickle langplayx
+648.554862	650.864871					do you want to smell the flower babyname oh opps

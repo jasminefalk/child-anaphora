@@ -1,0 +1,145 @@
+243.795225	246.656524							oh my goodness a ladybug 
+247.251758	248.233372							ladybug
+252.452222	253.18321							a bug
+253.809772	254.530319	that	21	pronoun	2	1	2	that is a bug
+255.125552	255.54326							yes
+256.180265	256.869483							a bug
+258.435888	261.432942							can you let me show you something watch this
+262.811378	263.32307	it	21	pronoun	1	0	3	twist it
+264.294241	265.244527	it	21	pronoun	1	0	3	if you twist it
+266.633405	267.81343							oh
+270.194365	272.241134							that is a shake
+273.097435	273.932851	it	21	pronoun	1	0	3	can you twist it
+274.945793	275.572355	it	21	pronoun	1	0	3	can you twist it
+276.021391	280.302897							rub just like washing our hands rub
+282.730824	284.41732							rub
+284.897684	286.432761							rub
+287.111536	287.920845	it	21	pronoun	1	0	3	if you rub it
+288.803253	290.045934							rub
+295.350825	296.055707							yeah
+297.622111	299.110196	that	21	pronoun		1	1	what kind of noise does that make
+302.718148	304.065256							let us see are there other
+304.561284	305.662989							instrument here
+306.51929	309.166514							nope we have bunny rabbit
+310.38831	311.777188	that	1-Jul	split	2	0	3	i do not think that goes together
+314.079803	314.257329							oh
+314.64893	315.432133							a block
+316.580829	319.504785	one	24	one	2	0	3	that one makes noise too you can shake
+320.846671	324.063022							shake
+325.248269	326.992199							yay
+329.399241	330.845555							shake
+334.933871	337.074624							oh right she wants to keep looking at herself
+339.946366	341.690296							look honey yeah there is a bed
+342.546598	344.18088							you want to put the girl in the bed
+345.950917	346.467831							baby
+347.908923	349.041956	she	15	pronoun	1	0	1	she lays in the bed
+351.271472	352.414947							do you lay sideways
+355.098721	356.45105							do you lay this way in the bed
+364.225639	364.820872							oh
+365.123711	366.084439							oh
+366.690115	368.366168							here play with the car
+369.473094	370.679226							you want to roll the car
+373.237687	374.187972							i have a car
+374.986839	380.312615	it	20	pronoun	2	1	1	oh and it has button you love button that is right
+382.521245	382.625672							oh
+387.711266	388.828635							you want to dance
+391.052929	393.924671							i see i see you are dancing a little bit
+396.504018	397.908561							oh
+410.67998	411.019368							huh
+411.83912	412.946046							what does the other button do
+413.66137	414.909273							try the next button
+417.008255	417.316315							no
+421.529943	422.913601	that	20	pronoun	2	1	1	that is the same one
+425.252765	426.777399							can dance
+428.040965	428.140171							dance
+428.87116	429.252318							dance
+430.912707	432.985583							dance
+435.168107	437.763117							what does the triangle do triangle button
+438.984913	439.172881							speechx
+440.065732	441.700014							oh you like the one you know
+443.689348	444.764946							you like that song
+452.529092	453.573362							try the circle
+454.079833	456.095273							try the circle point the circle
+467.81198	469.639452							babyname can you say button
+471.842862	472.558187							babyname
+473.649448	474.683276							can you say button
+477.675108	478.536631							babyname
+479.278063	480.46853							can you say button
+483.919842	486.029267							i am going to line up the car over here
+486.927339	489.631998	"he, them"	"25, 20/3"	"pronoun, split"	1	"0, 0"	"1, 1"	just like brother does he likes to line them up
+491.45947	493.365262	that	8	pronoun	2	0	3	oh my goodness look at that
+494.138022	494.425196							block
+497.50057	497.9235							block
+499.051311	500.017261							there is a house
+501.782077	502.852453							and a turtle
+503.510343	504.408415	one	9	one	2	0	2	this one is heavy
+505.358701	506.664038	"it, it"	"9, 9"	"pronoun, pronoun"	1	"0, 0"	"2, 2"	speechx feel it it is heavy
+509.744634	510.104907							bug
+511.478122	511.968928							ladybug
+515.425461	517.842946	"these, it"	"18, 18"	"pronoun, pronoun"	1	"0, 0"	"3, 3"	oh and you have one of these at home it is a rake
+520.015027	522.761457	those	18	pronoun	1	1	1	and we have a couple of those do not we in our sandbox
+524.275648	524.823889							yes
+527.230931	528.322193	one	4	one	2	0	3	what is this one
+529.50744	530.238428							a flower
+537.104502	538.686571	this	20	pronoun	2	0	3	oh my look this moves
+542.226646	543.537204	one	20	one	2	1	1	brother will like that one
+548.325181	550.340622							i am going to line up all of these car
+551.014176	553.922467							oh look a monster truck
+554.663899	555.311346							truck
+556.329509	556.543584							truck
+559.201251	560.517031	it	19	pronoun	1	1	1	you want to see if it rolls
+561.6344	565.926348	"it, it"	"19, 19"	"pronoun, pronoun"	"1, 1"	"0, 0"	"1, 2"	this carpet probably does not let it roll very well but i bet it rolls over here look
+567.534524	569.408988							langplayx
+570.740432	573.800143	it	19	pronoun	1	0	1	like over the carpet since it has big wheel look
+574.494582	575.319555							watch out babyname
+575.904346	576.948616							langplayx
+579.089369	579.877793							langplayx
+582.462361	582.916618							hammer
+585.569063	586.018099							hammer
+587.610611	588.57656							very good
+591.088029	591.317768							oh
+592.012208	594.549783	"it, it"	"10, 10"	"pronoun, pronoun"	"2, 1"	"1, 1"	"1, 1"	no it does not come off it is on right now
+595.724587	596.351149	it	10	pronoun	1	1	1	it is on
+598.413582	599.880781							can you tap with the hammer
+603.59316	605.159564							that is right that is tapping with your hand
+605.619043	606.76774							can you tap with the hammer
+607.947765	608.861501							tap
+611.325978	612.344141							tap
+614.114178	615.685804							tap with the rake
+617.121675	621.758233							can you scratch with the rake scratch
+625.956197	627.412954							can you scratch with the rake
+634.775056	635.850654							tap
+637.364845	638.242031							oh
+638.805937	638.988684							oh
+647.238416	648.188701	this	11	pronoun	2	0	3	what is this called
+649.880418	650.548751	that	11	pronoun	2	0	3	what is that
+651.300625	651.864531							a bug
+653.133319	653.885193							a bug
+656.464539	657.216413							hammer
+659.378052	660.103819							tap the block
+660.526749	661.289066	this	17	pronoun	2	0	3	this is a block
+664.531523	667.116091	it	17	pronoun	1	1	1	it is a shiny block is it not can you tap
+670.833691	672.102479	that	10	pronoun	2	1	1	oh that makes a squeek
+673.76809	674.363323							this way
+676.321329	677.704987							speechx
+682.482521	683.082976							shake
+687.254834	691.969712							oh babyname you do not even know what these kind of phone are you only know cell phone
+692.392641	693.254164							can you say hello
+694.596051	695.243498							hello
+696.204226	696.559278							hello
+698.496398	699.436241	that	16	pronoun	1	1	1	that is a phone
+699.958376	701.394247							that is what phone used to look like
+702.908438	703.284375							hello
+706.756572	707.28915							hello
+716.859882	718.20699							dance
+723.350019	723.438782							oh
+724.759783	726.629026	it	26	pronoun	2	1	1	that is okay you can leave it on
+731.813826	732.889424							good dancing
+733.80316	735.526205							dance
+736.972519	737.844484							good girl
+741.697839	742.501927							do you want to stand up
+744.48604	745.170036							want to stand up
+745.666065	746.804319							want to stand up and dance
+747.550972	748.710111	one	20	one	2	0	3	let us see what this one does
+754.370053	755.821588							that is just a car sound
+757.8788	758.286065							langplayx

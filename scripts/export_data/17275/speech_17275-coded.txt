@@ -1,0 +1,77 @@
+135.447752	138.745842					langplayx
+138.898777	140.235301					babyname what does the car say
+142.070529	143.905756					langplayx is right
+146.844779	147.383379					what
+147.709198	149.743906					speechx like to see anna and elsa
+151.984746	153.826622					let us play with some of your toy
+154.584651	156.985075					should we build a stack with these three block
+157.816247	159.398798					or you want to put a baby to sleep
+163.242136	164.252841					this little baby
+168.668025	170.622941	"she, her"	"15, 15"	"pronoun, pronoun"	"1, 1"	oh she is jumping on her bed
+172.345129	173.561965					those are some high jump
+174.14711	175.476985					night night little baby
+180.736639	182.259346	this	14	pronoun	2	what kind of toy is this
+183.017375	184.373847	this	14	pronoun	1	have you seen this before
+186.282218	189.061656	it	14	pronoun	1	it is to cut it is like a knife it is a saw
+190.012516	191.575119	that	14	pronoun	1	you can use that to chop wood
+192.067173	192.612422					chop wood
+194.002141	195.657835					you cutting up the babys bed
+198.523715	200.844347					let us see what else we can play with the snowman
+203.550642	208.052269					oh next snowman is going night night too what else can go night night
+209.614872	210.186718					a truck
+213.690938	214.355875					a truck
+215.280138	217.873394					let me see how many car do you have to play with
+218.458539	220.413455					a blue car a little truck
+222.607749	224.103858					a green car
+227.701169	229.29037					and this car that makes noise
+235.261508	236.518239					yes i am wearing
+237.136631	240.215292					headband thing a camera on my head you too
+241.804492	242.881691					speechx
+247.24368	248.633399					do you like this little bunny
+249.57761	250.874238					bunny is wearing a hat
+255.176383	257.284235					i think that hat needs to stay on
+258.82024	260.249856					yes let us leave these cords
+262.517292	265.273458					let us see if we can build a tower with these four blocks
+267.351388	268.70121					oh do you need to make a call
+272.790576	274.270061					are you calling the operator
+274.931674	276.055418					who are you calling
+281.152164	281.906868					babyname
+287.99437	290.032403					calling a cowboy is that what you said
+291.156147	292.180151					hello
+292.961452	294.730186					hello oh would you like to speak with babyname
+295.574656	296.857985					okay she is right here
+297.938509	299.371449					oh you do not want to answer the phone
+300.013113	304.511415					oh babyname is busy right now she cannot take a she cannot answer the phone can i take a message
+305.385808	305.914433					okay
+306.838696	308.471117					okay thanks i will tell her
+309.072886	311.164114					oh it was daddy on the phone
+311.74261	313.49472					he said he wants to play with you later
+324.256732	325.699646					you are going to play with him too
+331.537796	333.429543					what do you think you are going to play with
+334.310585	335.331264					with daddy later
+340.122139	342.087029					maybe some of the car at our house
+343.486722	344.969532					are your block your baby
+349.334846	349.650692					hey
+350.192616	353.105042					this is a cool little helmet do you think that baby should wear a helmet
+354.591177	355.522089	"it, her"	"1, 15"	"pronoun, pronoun"	"1, 1"	does it fit her head
+355.874506	356.655807					let us try it
+361.416759	361.99858					speechx
+362.620296	364.412302	she	15	pronoun	1	yes she is a football player now
+377.408504	379.117393					do you remember when you speechx a football
+381.138803	383.888319					football player they wear those kind of helmet to protect their head
+387.469007	389.779665					i think you need to stay over here to play with the toy
+390.654058	392.599					let us see what animal toy are over here
+393.330431	393.785913					let us see
+393.968771	394.789968					a turtle
+397.835382	400.009727					turtle let us see what this animal
+400.578249	402.94875					an elephant what does the elephant say
+407.423779	409.824203					oh hey babyname do you know what this toy does
+410.246439	411.719275	this	26	pronoun	2	oh let us keep this on okay
+414.199492	414.512012					look
+417.377892	418.14257					can you do that
+419.761693	420.725852	this	21	pronoun	2	can you spin this
+421.503829	425.124413					and make oh that is a good way to make noise too you can just hit those little ball
+429.320168	432.079659	"it, this"	"21, 21"	"pronoun, pronoun"	"1, 1"	no it is not to eat this is not an eating toy
+432.724648	433.954782					okay let us put your hat on
+436.039361	437.957705					oh let me wipe your nose
+440.29496	442.525826					you have such a snotty nose babyname

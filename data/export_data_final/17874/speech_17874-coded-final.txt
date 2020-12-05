@@ -1,0 +1,93 @@
+269.600889	270.568736	that	21	pronoun	2	0	3	is that a ladybug
+279.390422	280.754928	that	14	pronoun	1	1	1	that is a saw
+285.324434	286.768272							what else is out here
+291.337778	292.876813							what else is out here
+294.987037	297.478053	that	1	pronoun	1	1	1	what do you see oh is that a football helmet
+302.237955	302.793277							yes
+304.744837	305.474689	that	2	pronoun	2	1	1	what is that
+307.949839	308.901819	that	2	pronoun	1	1	1	is that house
+319.373605	320.26212	that	21	pronoun	1	1	1	what is that
+321.848755	322.73727							langplayx
+324.33977	325.450414	that	3	pronoun	2	1	1	what is that babyname
+326.973583	328.036628	that	3	pronoun	2	1	1	is that a car
+330.575243	331.558956							car
+346.473318	347.663294							a block yes
+363.434438	364.481616	it	17	pronoun	2	1	1	does is move
+367.765949	369.701643							are you trying to peel off the sticker
+377.269888	377.968007	that	10	pronoun	2	1	1	what is that
+378.47573	379.173849							can you show me
+396.833088	397.705737	that	2	pronoun	2	1	1	what is that
+400.228486	401.354996							a house
+401.767521	404.24267	"it, it"	"2, 2"	"pronoun, pronoun"	"1, 1"	"1, 1"	"1, 1"	it is a block but it is also a house
+407.273142	408.383786	it	21	pronoun	2	1	1	it is a ladybug
+410.636806	411.953713	that	7	pronoun	1	1	1	what is that a bunny
+416.681883	417.855992	that	10	pronoun	1	1	1	that is a hammer
+419.521958	420.473939							hammer
+423.996267	425.487703							you go langplayx
+428.137382	429.23216	it	10	pronoun	1	0	2	see it is a hammer
+434.007929	434.73778							langplayx
+441.306446	443.051744	that	14	pronoun	1	1	1	that is a saw
+444.860507	445.971151							can you say saw
+448.176572	449.09682	that	5	pronoun	2	1	1	what is that
+450.366128	452.079693							elephant
+453.190336	454.65004							vocplayx
+458.235833	459.362344							what else is out here
+466.311802	467.263782	that	8	pronoun	2	1	1	what is that
+470.675046	471.547695	that	8	pronoun	2	1	1	that a block
+472.73767	474.276705							can you stack the block
+478.370222	479.29047							stack
+480.194851	481.130965							good job
+489.016538	490.603172							are you stacking the house too
+493.110054	494.998149	it	17/2	split	1	1	1	good job knock it down
+498.774338	500.519636							oh do not throw the elephant
+507.120034	509.039862	"that, that"	"7, 7"	"pronoun, pronoun"	"2, 2"	1	1	is that a bunny oh do not eat that
+518.765929	520.416029	that	26	pronoun	2	1	1	oh leave that alone please
+522.716649	524.287417							what are your other toy out here
+524.953803	526.413506	that	26	pronoun	2	1	1	no we have got to leave that alone
+530.364226	530.840216							hi
+531.887395	533.061504	that	26	pronoun	2	1	1	nope that is mommys
+533.521628	534.648138	that	26	pronoun	1	1	1	you are going to leave that alone too
+535.219326	537.170887							mama has got a funny headset on too
+538.440194	539.344575	that	17	pronoun	2	1	1	is that a block
+541.089873	542.40678	these	17	pronoun		1	3	what color are these
+544.215543	545.024726							red
+545.818043	546.738291							what is another color
+548.102796	550.244753							green what is another color
+551.767922	553.798813	"that, one"	"17, 17"	"pronoun, one"		"1, 1"	"1, 1"	that is white that one is white
+554.877725	555.893171							yellow
+557.36874	558.511117	one	17	one		1	3	and which one is that one
+559.97082	560.875202							red
+561.79545	563.651812	one	17	one		1	1	that one is orange
+565.301912	566.269758							orange
+566.983744	567.967457							can we turn the block
+568.967037	570.870998	those	17	pronoun		1	3	oh what color are those
+572.663894	573.457211							hello
+574.885182	575.599168							yes
+576.693945	577.518995							oh
+578.042584	579.70855	they	25	pronoun		1	1	they are going to take your picture again
+663.895363	664.466551							bunny
+665.624794	665.894522							oops
+672.542519	672.891579							yes
+674.335416	675.128733							yes
+677.794279	678.444799							where are you going
+680.396359	681.744998							do you want to curl up next to mom
+682.458983	682.919107							like that
+686.235173	686.933292							a block
+691.248937	692.867304							are we looking at the color again
+695.342453	696.215102							white
+697.801736	699.150376							and red
+700.134089	700.990871							and green
+701.435129	703.529486							and blue and orange
+706.702755	707.781666							green yes
+710.129884	711.557855							and
+713.112757	715.651372							white oh are you trying to peel the sticker up again
+716.888946	717.99959							is there more sticker
+719.205432	723.203751							let us leave the block alone oh let us play with this block instead
+726.67848	727.725658	that	22	pronoun		1	1	what color is that
+732.739422	733.8342	that	22	pronoun	1	1	1	is that a purple block
+738.245043	741.307247	them	17/22	split	2	1	1	you going to stack the block oh knock them down
+742.544822	743.322273	them	17/22	split	1	1	1	stack them up
+744.972372	746.321011	them	17/22	split	1			oh knock them down okay
+752.255023	754.063786							babyname do you see a turtle in here
+754.730173	758.109704	it	26	pronoun	2	1	1	you have got to leave it alone no oh
+759.014085	759.712204							uh oh

@@ -1,0 +1,138 @@
+148.349572	149.404832					what do you see buddy
+150.089325	152.934248	it	17	pronoun	1	oh look it is like a rubiks cube like daddy
+154.63835	155.486836					what do you think
+168.649064	170.424467	these	17	pronoun	1	i do not know how daddy does these
+171.64372	173.875452					vocplayx look at all the blue
+174.795239	176.228396					all blue went away
+176.734636	179.60095					but there is a lot of green oh there is more yellow
+185.354968	188.363885	they	17	pronoun	1	mommy does not understand those things but they are fun to play with oh
+190.039466	190.731089					what does this guy do
+191.251589	193.611664					vocplayx
+199.950353	201.212387					you have fun at daycare today
+202.274777	202.759626					buddy
+204.706152	205.526118					what does this guy do
+207.066227	211.023451	it	21	pronoun	2	saw it vocplayx
+217.091195	218.174976					are you enjoying your snack
+222.674091	223.601008	it	18	pronoun	1	it is like a little rake
+224.563576	225.789959					raking the babyname
+226.888	228.114383					raking babyname
+228.784616	232.470895					raking babyname raking babyname
+234.909401	235.665195					you want to play
+236.663414	237.376427	it	18	pronoun	2	you want to play with it
+241.2267	242.139357	it	18	pronoun	1	do you want to play with it babyname
+245.49052	246.396047					hey little doll
+249.262361	250.895162					vocplayx langplayx
+253.654524	255.351495					vocplayx langplayx
+257.818522	259.187508	it	15	pronoun	1	it got curly hair
+260.684836	261.804267					and soft
+262.773965	263.879136					you have soft hair
+264.585019	267.80784					it was curly at one point until we got your haircut and then it went away
+270.324777	274.831022					langplayx
+279.914808	282.802512	it	13	pronoun	2	mmm what else do we have look it is a car
+284.79182	288.449578					vocplayx
+288.998599	290.617139					vocplayx
+291.19468	291.921954					vocplayx
+295.159035	297.939787	one	13	one	1	i am going to drive this car over you like the one we do at home
+298.61715	301.169738					vocplayx nope no mama
+302.110915	302.731237	one	13	one	2	not that one
+305.269565	306.495948	that	9	pronoun	1	that is a really heavy turtle
+308.18579	309.162618	that	20	pronoun	2	is that a bigger car
+309.647467	310.902371					ooo
+313.041411	314.980808	that	20	pronoun	1	that has got some big wheel on it oh
+318.467443	319.287409	it	20	pronoun	2	scratch it
+321.569052	323.864955	it	20	pronoun	1	it does not make any noise oh
+324.435366	324.905954	this	20	pronoun	2	what is this
+325.319502	327.287419	that	10	pronoun	2	i bet that makes noise i bet it does
+338.624333	341.1484					good job buddy yay
+343.515605	344.642166					you are so smart
+350.118109	350.467485					good
+385.961293	387.251848					are you hammering on mama
+389.012991	390.446148					hammering on mama
+399.58698	399.979137					want more
+401.975575	402.189479					nope
+402.595896	402.831191					yep
+407.672552	409.027278	these	24	pronoun	2	hey look we have these at home
+416.271494	417.248322	that	24	pronoun	2	does that say one
+419.095027	420.378451					one ball
+420.934602	422.688615					there is a ball in there babyname
+423.287546	424.150292					can you say ball
+425.6191	426.232291					ball
+428.620886	429.476502	that	22	pronoun	2	that is a block
+430.624454	431.280426	it	22	pronoun	1	what is on it
+434.553158	436.25726					and a red house
+442.296484	443.016627					and a rake
+443.943545	445.426613					how many window are on there
+446.36066	448.207365					one two
+449.56922	450.638741					one
+451.743911	455.39454					one two three four five
+457.305416	457.697573					one
+459.65123	461.134298					how many door are on the house
+462.439113	463.144996					one
+464.899009	465.262646					two
+468.064789	469.448035	it	2	pronoun	2	it is a fun little block
+473.205615	475.07371	that	2	pronoun	2	maybe we will live in a house like that some day
+476.399915	478.938243	it	2	pronoun	2	bet it has got grass and tree
+480.200277	481.797427					and got flower
+486.831302	487.836651					how is that rake tasting
+489.555013	489.982821	it	18	pronoun	2	is it good
+495.430244	495.736839					vocplayx
+499.444509	501.341125					well you can try to eat the house i guess
+507.99354	508.449869	that	1	pronoun	2	what is that
+509.298355	510.068409	that	1	pronoun	1	that is a helmet
+511.095148	512.293011	that	1	pronoun	1	is that a helmet like yours
+516.870557	517.897296	it	1	pronoun	1	it is kind of close
+522.831349	524.014951	it	1	pronoun	1	it is a football helmet
+524.856307	526.660231	it	1	pronoun	1	they wear it to protect their head
+527.544368	527.850964					yes
+528.506936	529.555066					football helmet
+530.731538	532.029222	it	1	pronoun	1	but oh and we are breaking it
+532.621023	533.619242					oh that is good time
+539.544384	540.735116	that	1	pronoun	1	that is the face mask
+545.455265	547.86525	"it, it"	"1, 1"	"pronoun, pronoun"	"1, 1"	mama going to fix it put it back together
+556.150466	557.711966					you like the rubiks cube do you not
+559.380417	560.941916	it	17	pronoun	1	one day daddy will show you how to solve it
+562.489156	563.950833					and then you will have to beat him
+565.219997	566.132654	it	17	pronoun	1	in how fast you do it
+570.888454	572.214659					can you say blue
+574.332308	575.145144					red
+576.706643	577.391136					green
+578.703081	579.508786					orange
+588.093467	588.863522					you can do it
+590.603275	591.515932					keep spinning
+592.136253	593.113082					good job
+598.781539	599.886709					good job baby
+602.097051	603.016838					is your nose dripping
+604.499906	605.419693					nope nope nope nope
+606.075666	606.802939					mama get it
+608.378699	609.562301					here we go
+612.728081	613.811861					here we go
+622.417933	623.879611					you are doing so awesome
+625.163035	626.368028					so great
+626.888527	627.195123					there
+627.658582	628.036479					we go
+629.077479	629.719191					mama got it
+630.403684	630.924183					i know
+631.580156	633.426861	"it, it"	17	"pronoun, pronoun"	"2, 1"	show me how you do it show me how to do it
+639.466084	639.865372					yes
+643.615822	644.977678					keep spinning no no no
+645.448267	646.089979					keep spinning
+646.624739	647.066807					here buddy
+651.152374	652.164853					oh can you do it
+661.184473	661.783404	that	21	pronoun	2	is that a ball
+662.688931	663.651499					yes
+667.173786	667.644374					ball
+669.669333	670.06862					ball
+675.701426	676.835117	it	21	pronoun	1	you can make noise with it
+677.918898	679.188062	it	21	pronoun	1	you can annoy your brother with it
+685.505361	686.111422					mmm tasty
+694.396638	695.173823					that is great
+695.872576	696.407336	that	21	pronoun	2	how does that taste
+697.412685	697.840493					go like this
+714.69613	715.815561					speechx sweet thing
+718.660485	720.742484	it	21	pronoun	2	i do not want to know if it fits inside your mouth buddy
+728.00809	728.321816					mmm
+730.011658	731.473336					yum yum yum yum yum
+734.432341	735.173875	this	6	pronoun	2	is this a ball
+735.687245	736.927888	that	6	pronoun	2	is that in the shape of a ball
+738.653381	741.512565					can you say ball today or are we not doing that today
+746.532179	748.849473					well at least you are occupied i guess

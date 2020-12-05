@@ -1,0 +1,112 @@
+267.115839	268.491937							you want to put the baby on the bed
+270.756764	272.572448							look you want to get the baby
+273.241385	274.197008							look at this big bug
+274.67482	275.123963							langplayx
+275.687781	276.098699							langplayx
+277.828377	278.172401							look
+279.022906	280.571016	it	9	pronoun	2	0	3	look babyname what is it
+281.57442	282.759393							turtle
+284.460403	286.209194	that	9	pronoun	1	0	3	oh that is a turtle
+289.764112	290.194143							look
+295.430959	296.405695	that	21	pronoun	2	0	3	are you see that
+300.944906	301.480055							speechx
+303.553757	304.318256							go like this
+305.465004	305.904591							like this
+310.759157	312.421942	it	21	pronoun	1	1	2	move your oh hold grip it
+314.027389	314.333189							yes
+319.340655	320.487403							how cool is that
+325.905788	326.937861							okay hold on
+328.514639	329.240913							snowman
+329.890737	330.588342							snowman
+331.563078	332.54737							and a house
+340.71795	341.482448							here is our
+344.416212	345.276273							animal
+347.225745	348.334268							ant
+348.955423	350.71377							here is our langplayx
+351.745843	353.972445							vocplayx
+359.333492	360.317784							here is another car
+369.109519	370.714967	that	26	pronoun	1	1	1	yes that is mommy purse
+371.555915	372.626213							no no no no
+373.0658	374.375004							let us just play
+375.416633	377.299211							i do not want you touching my purse
+379.927176	382.63159	that	26	pronoun	2	0	1	babyname you are you have that on your head
+383.893013	384.781742							no come here
+387.4766	389.10116							you got to stay over here and play with this stuff
+390.018558	392.04448	it	26	pronoun	2	1	1	not the phone do not touch it
+392.694304	393.181672							now look
+395.178924	395.886086	this	17	pronoun	2	0	3	play with this
+396.535909	396.927715							toy
+404.085334	404.945395	it	17	pronoun	2	0	3	i did not move it
+407.936496	410.077092							and try to get all the color
+417.091368	417.989654							what
+420.674955	422.49064							you go you try to go
+423.828512	425.424403							what did you get bit by
+428.568404	431.530837	"that, that"	"26, 26"	"pronoun, pronoun"	2	"0, 0"	"3, 3"	booboo that is a bite what is that
+437.216796	438.124638	it	26	pronoun	1	0	1	you itched it
+444.966901	445.93208							what
+455.602989	455.985238							okay
+458.030272	459.626163	they	17	pronoun		1	1	uh oh they fell out
+470.663613	472.316841	it	17	pronoun	2	1	1	no babyname you are breaking it
+473.253352	474.887468							no here do not
+476.168003	476.856052							no
+478.958423	480.735883	it	17	pronoun	2	0	2	that is not how it is supposed to go man
+482.991154	483.870328							what did you do
+486.316723	486.90921							why
+488.658	489.747411							that is a bad girl
+495.66272	496.847693	it	17	pronoun	1	0	2	why did you break it
+498.395802	499.370538							because why
+501.864715	503.861968	this	17	pronoun	1	0	2	yes you broke this so now
+505.027828	506.040789							you should get a spanking
+507.044194	507.846917	it	26	pronoun	2	1	1	oh here here i will get it
+510.063964	510.857131							let us get
+512.214116	513.160183							this book here
+514.469387	516.199065							pet for baby
+607.747782	611.312258							okay ready you got to play with these twenty four object
+612.267881	614.676052							so that means you got to play with the ladybug
+615.555225	618.737451							you got to play with the bug bug
+619.396831	620.715591							langplayx
+621.222072	621.871896							langplayx
+622.359264	623.152431							langplayx
+623.61113	624.939447							langplayx
+626.334657	627.481405							langplayx
+630.319606	632.154403							look here is your your baby is awake
+633.310707	635.040385							hi babyname
+636.340033	637.429444							what is my name
+640.028739	641.509955	her	15	pronoun	2	1	2	it her name is babyname
+643.382977	643.90857							okay
+652.499624	654.401314							there is snow here is a car
+656.532355	657.612209							you go langplayx
+666.356163	666.757524							here
+670.255106	671.736322							remember when we went to the zoo
+672.491265	673.733575							and we fed the animal
+674.555411	675.683047	they	25	pronoun		0	1	look they have a turtle
+677.670743	680.250926	"they, they"	"25, 25"	"pronoun, pronoun"		"0, 0"	"1, 1"	they did not have any elephant but they had
+683.69117	684.608569							grasshopper
+689.797603	691.145032							and a car
+693.524534	695.97093	"that, it"	"26, 26"	"pronoun, pronoun"	"2, 1"	"0, 0"	"1, 1"	hey no you moved that you cannot move it
+700.959284	702.755856							spongebob
+713.812418	717.558462							what about the sock vocplayx
+719.536602	720.310657	it	14	pronoun	1	0	2	it is a saw
+730.640945	731.711244	that	14	pronoun	1	0	1	you do not want that here
+732.972666	733.765834							you want the hammer
+743.455855	743.981447							what
+747.459916	748.052403							you do it
+768.875436	772.678817	"it, it"	"21, 21"	"pronoun, pronoun"	"2, 2"	"1, 1"	"2, 2"	no do not break it go like this move it back and forth
+781.317652	782.397506							here is a helmet
+783.238455	784.184522	it	1	pronoun	1	0	2	put it on your baby
+795.193303	797.754373							hey go team go
+809.81434	811.171325	it	1	pronoun	2	1	1	it will not work
+812.556979	813.655946	it	1	pronoun	1	1	1	why will it not work
+815.872992	817.631339	it	1	pronoun	1	1	1	why will it not work baby
+822.868155	823.403304							yes
+829.614856	830.637373							here is a flower
+835.214809	836.829812							you want to give your baby a flower
+837.967004	839.29532							give your baby a flower
+841.044111	842.936245							say here you go honey bunny
+853.037184	853.744345							no come here
+855.139556	859.191399	these	4	pronoun		0	1	you got to stay playing with these for a couple more minute then we are going to go and get something to eat
+860.691727	861.52312							you want to eat
+862.574305	863.50126							you are thirsty
+867.868459	871.117578							you want a well there is not a drink here do you want to eat
+872.340776	876.277944							okay play with these toy and be a good girl and we will go eat and a drink
+878.256084	879.077921	this	22	pronoun	2	0	3	what is this

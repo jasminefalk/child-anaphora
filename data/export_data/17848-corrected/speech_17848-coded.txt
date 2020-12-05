@@ -1,0 +1,272 @@
+341.056602	341.671916	that	11	pronoun	2	that is a bug
+342.485554	343.767033					do you want to actually this
+344.209449	345.948599	it	11	pronoun	1	more specifically i think it is a beetle
+346.879197	348.287808					looks like a ladybug but
+348.709882	349.528605	it	11	pronoun	1	i think it is a beetle
+350.743977	351.35929					i could be wrong
+351.771194	352.625514					i have been wrong before
+353.027248	353.912079	it	11	pronoun	1	but i think it is a beetle
+354.385006	356.210605	"this, that"	"6, 6"	"pronoun, pronoun"	"2, 1"	look hey check this out what it that
+357.634471	358.57524					a snowman
+359.424474	360.466948					the snowman eye
+361.80945	364.479199	he	6	pronoun	1	babyname he has got eye and a nose and teeth
+366.899771	367.281164					okay
+367.820199	368.247359	this	21	pronoun	2	what is this
+369.269491	370.230601	that	9	pronoun	1	that is a turtle
+370.667931	371.634126	it	9	pronoun	1	look it is a turtle
+373.530919	373.66822					there
+374.100465	375.031063					turtle has eyes
+377.360101	378.082205	that	19	pronoun	1	that is a truck
+379.119593	379.358599					look
+380.868914	384.774375	it	19	pronoun	1	langplayx it is a truck
+387.291567	388.369637	this	21	pronoun	2	this is a ladybug
+389.045974	390.393561	that	4	pronoun	1	toy that is a flower
+391.12075	393.968482	"that, that, it"	"4, 4, 4"	"pronoun, pronoun, pronoun"	"1, 1, 1"	you know what that is that is a flower you tell me what it is
+395.366922	395.799167	this	18	pronoun	2	what is this
+397.278971	398.713007					oh oh sit yeah sit on your bum
+399.475792	400.843721	"that, it"	"3, 18"	"pronoun, pronoun"	"2, 1"	that is a car too look it is a rake
+402.216735	403.905033	it	18	pronoun	1	rake yes it is a rake
+407.362993	407.912199	that	19	pronoun	1	that is a truck
+409.636094	410.765016	this	2	pronoun	1	this is a house
+412.153286	413.007605					a house
+413.882266	414.060249					look
+414.767097	415.423092	this	23	pronoun	1	this is a bed
+416.643549	417.055453					a bed
+417.462272	417.843665					and look
+419.506537	420.981255					the elephant has to go night night
+421.571143	423.111969					night night elephant night night
+424.012056	425.786803					now does the elephant need a baby
+426.239389	428.507404					the elephant needs to have a baby there okay
+429.102377	429.783799	they	15/5	split	1	they go night night
+430.882209	431.111045					okay
+433.618066	434.319829	that	15	pronoun	1	that is a baby
+434.746989	435.326706	her	15	pronoun	1	look at her hair
+436.948896	437.437079	her	15	pronoun	1	look at her hair
+439.994952	443.549532	"she, this, this"	"15, 10, 10"	"pronoun, pronoun, pronoun"	"1, 2, 1"	you have hair and she has hair here look check this out what is this
+447.088856	447.399056					okay
+448.212693	448.777155					i do not know
+449.723009	452.835173	"it, it"	"10, 10"	"pronoun, pronoun"	"1, 1"	it squeaks on one side it is kind of a lame squeaker
+453.857305	455.199808					the other side does really nothing
+457.803448	461.597034					bye bye baby how about the baby go in the house okay baby go
+462.04962	462.649678					in the house
+464.236272	465.06008					whoops there
+466.041531	466.733123					baby is in the house
+467.460311	467.96375	this	17	pronoun	2	what is this
+468.843496	469.443553					hey
+470.160572	471.73191					a rubkis cube
+472.164155	474.050777	that	17	pronoun	1	that is quite interesting is not it
+476.298451	477.305328					yes
+478.480018	480.061526					see the color yellow
+480.585305	482.609229					green blue orange
+483.758492	484.033095					blue
+484.485872	484.745787					white
+485.167103	486.809634					green red orange
+487.226623	488.731853	that	17	pronoun	1	that is a rubkis cube look watch
+489.606514	490.450663	it	17	pronoun	1	how it turns
+491.976234	492.774616					neat yeah
+493.700129	494.401891	that	17	pronoun	1	that is neat
+498.358205	499.532894					okay but what color is this
+500.351617	500.819459	one	17	pronoun	1	what is this one
+502.167047	502.507757					red
+503.875686	504.567278					what color is that
+505.492791	507.343817	it	17	pronoun	1	blue here you can turn it here
+508.05575	508.421887					watch
+509.291462	510.059333					how about the phone
+511.167914	512.05783					let us pick up the phone
+512.637547	513.1359					hello
+513.537634	513.751214					hello
+514.386868	515.434427					you want to talk to babyname
+515.907354	517.793976					okay here oh no no no no no
+518.282159	519.71111					here they going to talk to you say hello
+520.631538	521.318045					say daddy
+522.92498	523.26569					no
+524.196288	524.445465					here
+525.950695	526.662628					take the rake
+528.75266	530.715561	that	18	pronoun	1	do not rake your hair that is not a comb
+531.117295	532.617439	it	18	pronoun	1	okay if it is a comb
+533.049684	533.664998					that is fine
+534.554914	535.022756					you can
+584.949602	586.109036	"that, that"	"8, 8"	"pronoun, pronoun"	"2, 1"	that is not a house that is
+586.571792	588.03634					umm just a square
+588.78387	590.106031					with spongebob squarepant on it
+593.009701	595.648938	that	21	pronoun	2	that is a ladybug ouch my leg is killing me
+596.727008	597.805078	that	21	pronoun	1	that is a ladybug honey
+600.261247	600.551106					look
+601.008777	601.761392	this	1	pronoun	2	this is a hat
+603.103894	604.487078					and we can put the hat on the baby
+607.22802	610.370696	she	15	pronoun	1	kind of like how you have a hat on look now she is a football player
+612.92857	614.011725	she	15	pronoun	1	or she could be a hockey player
+614.428715	616.472979	she	15	pronoun	1	she might play hockey i do not know it is hard to say
+617.490027	618.873211	she	15	pronoun	1	does she want to drive the car
+619.93094	621.024266	she	15	pronoun	1	what if she sits in the car
+621.904011	622.646456					driving the car
+626.918054	630.472634	"she, she, she"	"15, 15, 15"	"pronoun, pronoun, pronoun"	"1, 1, 1"	she is not a very good driver is she well she cannot see because of the helmet
+631.743943	633.244087	she	15	pronoun	1	the helmet is too big she cannot see
+635.45108	636.279973	that	23	pronoun	1	that is a bed
+636.74273	638.298812					does your baby need to go to bed
+639.626058	641.634727					okay let us put the baby down for night night
+643.048422	643.414559					okay
+643.989191	645.280841					the baby will go night night
+646.252121	647.513259	her	15	pronoun	1	should we take her hat off
+649.257495	650.549145					can we take the babys hat off
+652.344234	653.045996	it	1	pronoun	1	take it off
+654.912278	657.312509	her	15	pronoun	1	oh my goodness basically we are pulling her head off
+657.785436	658.222766					there
+658.883847	660.063622					now baby ready for night night
+662.209591	664.431839					yes let us put the baby down for night night
+665.926899	666.379485					hat
+668.037272	669.252643	her	15	pronoun	1	you going to put the hat on her
+671.459635	672.527535	her	15	pronoun	1	can the hat go on her
+673.432707	674.531118	her	15	pronoun	1	can you put the hat on her
+675.33967	677.444958	she	15	pronoun	1	there should she go to bed with the hat on
+678.100953	679.443456					do you go to bed with hat on
+680.546952	681.182606					no
+682.0115	682.550535	she	15	pronoun	1	but she can
+683.877781	687.183185	"her, this"	"15, 3"	"pronoun, pronoun"	"1, 2"	we are not worried about her safety this is a car
+687.910373	688.642647	it	3	pronoun	1	what color is it
+689.695291	690.097025					blue
+690.869981	691.59717	it	3	pronoun	1	it is a blue car
+692.024329	692.980354	one	13	one	2	and then look at this one
+694.022827	695.202602	this	13	pronoun	1	this is a green car
+696.311183	697.872351					green a green car
+698.324937	699.280961					a blue car
+699.962383	700.791276	one	20	one	2	now look at this one
+701.63034	702.967757					just when you think we are done look
+704.284833	706.649468	it	20	pronoun	1	white and blue it is a white and blue car
+707.290208	708.149612	it	20	pronoun	1	it is got button
+708.581857	709.151404	they	20	pronoun	1	they do not work
+710.504077	712.121182					there is no on off button
+712.980587	713.804395					not that i see
+715.462182	715.899512					okay well
+716.519911	717.867498					so okay check it out
+718.731988	719.988042					uh huh
+720.440628	721.310203					got a white car
+721.971284	722.886626					a blue car
+723.384979	724.076571					and a green car
+725.876745	726.41578					uh huh
+726.924303	729.451666					oh and the blue truck yeah i forgot about the truck gee
+730.209366	730.758571					gee whiz
+731.567124	732.192608					gee whiz
+733.682582	734.124997					uh huh
+736.230285	736.626934					okay
+737.715174	738.371169					look at this
+738.772903	739.230574					look at this
+741.335862	742.622427					watch this one okay
+744.437856	744.844675	this	20	pronoun	2	this is a
+745.353198	747.834794	it	20	pronoun	1	some sort of car let us see if we can get it to sit on the
+748.790818	751.501249	it	20	pronoun	1	can we get it to sit on there we can actually yep
+753.35736	754.059122	one	21	one	2	and that one
+754.567646	755.899978	one	21	one	1	that one will not sit i do not think
+756.739042	757.761174	that	21	pronoun	2	that is a ladybug
+758.574812	761.961579	"it, it"	"21, 21"	"pronoun, pronoun"	"1, 1"	you want to know why because its got those dot on it that makes it a ladybug
+762.790472	765.043232	"this, it"	"3, 3"	"pronoun, pronoun"	"2, 1"	this was not going to sit oh it did sit okay
+766.914599	767.402781					oops
+769.828439	773.255888	"that, it"	"11, 11"	"pronoun, pronoun"	"2, 1"	that is another bug looks just like the ladybug but it is not a ladybug
+774.288191	774.761118	that	11	pronoun	2	what is that
+776.418905	777.578338	that	11	pronoun	1	what is that can you say
+778.692005	780.278599	it	11	pronoun	1	no it is kind of lame
+781.132918	781.926215					can you say beetle
+783.823008	785.114658	it	11	pronoun	1	it is a beetle i think
+786.055427	786.736848					i could be wrong
+787.31148	789.782905	one	24	one	2	watch look at this one hey wow wow chickee
+790.525349	791.267793					hey chickee
+793.444274	794.8478					shakey shakey shakey shake shake
+795.798739	796.332688					shake shake
+799.175335	799.765223	it	24	pronoun	1	you shake it
+800.172042	801.178918					there is a ball in there
+802.923154	803.752048					good girl
+805.831909	806.274325					shake
+806.976087	811.730783	"one, one"	"21, 21"	"one, one"	"2, 1"	and then shake this one here see if this one shakes wow wow woah wow wow wow wow wow wow wow wow wow wow
+812.325755	812.544421					look
+813.022433	813.551297	this	9	pronoun	2	what is this
+815.590477	816.734655	it	9	pronoun	1	oh it is a turtle
+817.91443	818.448379	this	18	pronoun	2	and what is this
+820.492644	822.297903	this	18	pronoun	1	this is a orange rake look
+826.00504	826.508478	this	27	pronoun	2	rake this
+827.917089	828.959562	that	13	pronoun	1	that is a green car
+830.149507	831.476754					who is going to drive the green car
+834.83301	835.738182	this	7	pronoun	2	who it this vocplayx
+837.380713	838.204521					vocplayx
+839.638557	840.131825					vocplayx
+841.860806	842.054045					vocplayx
+843.783025	843.955923					vocplayx
+844.718708	844.952629					vocplayx
+846.244279	846.473115					vocplayx
+847.688486	847.902066					vocplayx
+850.175166	850.759968	that	7	pronoun	2	what is that
+852.005851	852.880512	that	7	pronoun	1	that is a bunny
+857.243644	858.66751					looks like a bunny with a hat
+860.462599	861.505072					kind of looks like a fire
+861.906806	862.125471					okay
+862.54246	862.847574					hide
+864.988458	865.303743					hide
+865.908886	867.05815	"he, he"	"7, 7"	"pronoun, pronoun"	"1, 1"	where did he go where where is he
+867.546332	869.33125	"he, he"	7	pronoun	1	where did he go where where where
+869.824518	870.866991	"it, it"	"7, 7"	"pronoun, pronoun"	"2, 1"	where is it where did it go
+872.921427	873.363842	it	7	pronoun	2	it is right there
+873.968985	874.767367	it	7	pronoun	1	okay hide it again
+875.835267	877.813423	it	7	pronoun	1	where where where where did it go
+878.271095	879.110159	it	7	pronoun	1	okay there it is
+879.893285	880.661156	it	7	pronoun	1	okay hide it again
+881.820589	882.446073	it	7	pronoun	1	where is it
+884.805623	885.975227					do you want to take the hat off
+888.507675	889.80441	that	6	pronoun	1	that is a snowman remember
+891.487623	892.301261	it	6	pronoun	1	it is a snowman
+893.043705	894.259076	it	6	pronoun	1	look it is a snowman
+895.708369	901.378407	it	6	pronoun	1	it is a they are they are ball yes but it is it is they are two ball put together to make a snowman with a hat
+902.42088	903.610825	he	6	pronoun	1	look he has got a hat on
+904.068496	905.024521					kind of like your hat
+906.300915	907.389156					but a little bit different
+909.458847	910.023308	this	12	pronoun	2	what is this
+911.620072	913.323626					oh my goodness speechx
+915.200078	915.947608	that	12	pronoun	2	what is that
+918.490226	919.105539	it	12	pronoun	1	what is it
+919.634404	920.549746	this	12	pronoun	1	do you know what this is
+921.983783	923.961939	it	12	pronoun	1	is it a praying mantis i do not know
+924.373843	924.709469					might be
+925.91467	926.326574					could be
+928.223367	930.598172					it is possible does the praying mantis have to go night night
+931.859311	934.457866					vocplayx night night vocplayx
+934.874856	935.39355					vocplayx
+937.610713	938.236197					sure
+938.765061	939.838046					you can have a ball there
+943.682484	945.528425					uh huh will this guy
+946.052204	947.338769					let us see watch this watch this okay
+947.776099	948.101554					let us see
+950.506871	953.074915					no even this guy will not balance on this bed
+954.000428	955.164947					there he will okay
+960.158649	962.863994	that	20	pronoun	2	vocplayx that is the car
+963.916638	964.806554					see if we can get the
+965.487976	965.91005					okay
+966.632154	968.198407	his	6	pronoun	2	you want the car to balance on his head
+969.266306	970.013836					how we going to do that
+972.205573	972.948017					okay next
+974.265093	975.358419					next what car
+975.846601	976.441574					the green car
+977.539985	978.490924					the green car down there
+979.721551	980.479251					oh okay
+981.338656	981.852265					langplayx
+982.538772	982.798119					okay
+985.025452	985.757726					now what is next
+986.90699	988.076594					the truck oops
+989.06313	989.236028					okay
+989.703869	990.014069					truck
+993.665268	994.122939					the truck
+1000.113347	1001.394827					can we get the vocplayx
+1002.539005	1003.128892					there okay
+1004.044235	1004.400201					watch
+1004.873128	1006.195289	it	3/13/20/6/23	split	2	watch this it is going to fall
+1007.624241	1008.666714	it	3/13/20/6/23	split	1	it is going to fall
+1010.787257	1011.900924					okay we we cannot do that
+1012.480641	1012.678965					okay
+1013.167148	1014.067235					oh oh
+1014.692719	1016.309824					oh no
+1021.023837	1021.29844					okay
+1024.161428	1025.351373	it	3	pronoun	2	yep you put it on there
+1026.470125	1027.390553					might go better this way
+1028.229617	1028.73814					next
+1034.906531	1035.338776					next
+1040.393501	1041.146116					it is like jenga
+1041.66481	1042.076714					little bit
+1042.5293	1043.734501					not at all like jenga but
+1044.502371	1045.153282					okay next

@@ -1,0 +1,154 @@
+186.739589	187.681491	that	10	pronoun	1	is that a hammer
+191.692168	192.649262	that	0	pronoun	1	that is the guy
+193.150597	193.727891					what guy
+196.067453	197.146082					the guy uses the hammer
+198.604511	200.032555					does the elephant use the hammer
+201.247912	203.800161					yes vocplayx
+207.491808	208.266598					elephant
+209.588299	211.001151					do you know who this guy is
+213.492633	213.993968	it	12	pronoun	2	it is what
+216.014498	218.384444	this	12	pronoun	2	speechx for my eye but look at this
+218.809819	221.848212	"this, he"	"12, 12"	"pronoun, pronoun"	"1, 1"	do you see this this is a praying mantis and he says
+222.744537	226.4058					i am going to climb up your body langplayx
+227.469237	228.471907	he	12	pronoun	1	go where is he going
+229.185929	230.416478					can the girl ride on the car
+231.677411	233.576406	it	20	pronoun	1	can you bring the car over here and drive it right here
+234.184084	234.761379					where is the car
+237.845347	239.243007	she	15	pronoun	1	she wants to ride in the car
+240.397596	242.82831	"she, it"	"15, 20"	"pronoun, pronoun"	"1, 1"	and she said i do not think it opens can you try the door
+244.30193	244.818457					mmm
+245.471711	247.158019	"it, it"	"20, 20"	"pronoun, pronoun"	"1, 1"	it does not look like it opens does it
+248.510104	249.011438					no
+249.722623	250.74834	she	15	pronoun	1	can she go inside there
+254.509302	255.929525	she	15	pronoun	1	is she sleeping on the car
+257.099895	258.03356					night night girl
+259.059277	260.505801	she	15	pronoun	1	does she want to go for a ride
+261.347415	261.873424	she	15	pronoun	1	she does
+262.951741	268.580034					vocplayx
+269.342747	271.920189	this	7	pronoun	1	oh i think this is a firefighter bunny
+273.419314	275.470748	he	7	pronoun	1	i think he fights fires what do you think
+276.391263	277.574783	he	7	pronoun	1	you think he wants to go in the car
+280.047024	280.757135					wow
+281.914354	284.202492	"he, he"	"7, 7"	"pronoun, pronoun"	"1, 1"	he does not stand oops he is on there
+285.28081	286.069823					go
+290.672399	293.959953					maybe maybe the turtle wants to go in the car
+295.038271	295.643181	he	9	pronoun	1	he says
+296.090289	298.654581					langplayx
+299.430444	299.851251					what
+300.982169	302.533895					top top of the car
+303.191406	303.572762					okay
+304.039595	304.3289					go
+305.413792	307.123321					vocplayx
+307.71508	309.247081					but the beetle says stop
+310.239922	312.008626					stop go backwards
+312.962017	313.849657					oh
+317.032009	318.195803	he	9	pronoun	2	he jumped far
+318.951941	319.583151					oh no
+320.234087	321.33213					oh no look
+321.996216	323.541367					vocplayx oh look
+324.396131	324.823513					oh
+326.546191	328.137368	they	19	pronoun	2	those wheel oh they move
+331.135617	332.568991					vocplayx
+336.816511	337.566073					vocplayx
+338.059206	338.762743					uh oh
+339.288752	340.025164					oh
+340.965404	341.767568	he	19	pronoun	2	he fell
+347.014504	348.211174					elephant is going to go in the car
+349.559071	350.374385	he	5	pronoun	1	is he going to go in the car
+352.379793	352.794025					that guy
+355.489819	357.127021					oh look there is a house
+358.152738	358.724773					house
+359.415159	362.650112					the car is going to drive to the house vocplayx
+363.656104	367.088311	he	20	pronoun	2	oh no babyname oh no he jumped
+367.758972	368.311281	he	20	pronoun	2	did he jump
+369.994509	371.072826					look there is something in there
+374.228879	374.91269					something
+380.633034	381.777103					you need your turn
+382.224211	382.460915					oh
+384.6307	386.524332	it	8	pronoun	2	is there any what is it an eyeball you said
+387.826203	388.325911					oh
+392.639183	393.204642					eyeball
+394.88787	398.385827	it	3	pronoun	2	no i do not think there is an eyeball in there i think it is just a car
+398.806634	399.832351					what does the car say
+401.081622	401.870635	it	3	pronoun	1	it says go
+402.975253	404.434927					what does a car sound like
+407.03867	407.472627					babyname
+408.051237	408.550945					babyname
+408.998053	412.403959					babyname went with the man outside to play but mommy and babyname are playing right now
+413.377075	414.994552					do you think the girl wants to wear the hat
+416.638329	417.650896					remember this girl
+419.12372	420.609694	this	1	pronoun	2	do you know what kind of hat this is
+423.436991	425.711979	she	15	pronoun	2	play basketball but she has a football helmet
+427.158502	428.368322	she	15	pronoun	1	she is going to play football
+428.789129	430.498658	she	15	pronoun	1	i think she is going to be the
+430.906314	432.313388					linebacker what do you think
+436.929114	439.283003	she	15	pronoun	1	she says langplayx
+442.097149	442.412754					no
+444.148583	445.424154	she	15	pronoun	1	she wants to play basketball
+446.870678	448.764309					umm they do not really have a ball but
+453.998096	454.537255					what is up
+455.786525	456.299384					can you do it
+457.588105	457.982611					yes
+459.521187	460.362801					oh
+462.992844	465.75439					you still like that car you think there is a man in the car
+467.516519	469.147146					uh huh what is the man doing in the car
+475.104194	476.366615					he wants to play with the car
+477.27398	480.245929					can i saw the car in half oh vocplayx
+481.50835	481.863406					no
+483.638685	484.375097					your turn
+488.280712	489.661484	"it, it"	"14, 20"	pronoun	1	it is going to cut it in half
+491.975923	492.475631					go
+494.369262	496.973005					vocplayx
+500.392062	502.916903	she	15	pronoun	1	the girl does have a hat on she has a football helmet
+504.258225	507.414278	"it, this, they, they"	"1, 1, 0, 0"	pronoun	1	yeah it is a football helmet this is what they wear when they play football
+508.676698	509.99172	they	0	pronoun	1	that way if they get hit in the head
+511.753849	512.832167					no
+513.384476	516.816683	"her, she"	15	pronoun	1	no that way her head is safe when she wears a helmet
+518.947018	519.354675					uh huh
+520.538194	522.484426	she	15	pronoun	1	does she want to play with this block
+525.877182	527.244805	she	15	pronoun	1	she wants to play basketball
+529.204187	530.729612	she	15	pronoun	1	i do not think she has a basketball
+532.123535	533.412257	she	15	pronoun	1	she has a friend snowman
+535.818746	536.449957					yes
+539.027399	540.960481	they	15/7	split	2	they are going to play basketball with the block
+542.420155	543.985031	"they, it"	"15/7, 22"	"split, pronoun"	1	if they shoot the are you going to shoot it
+544.931847	546.246869	"it, her"	"22, 15"	pronoun	1	okay throw it to her oh
+548.561307	550.625891	it	22	pronoun	1	oh no it fell down
+551.375453	553.492638	"she, it"	"15, 22"	pronoun	1	and so if she shot it into the basket
+554.071248	555.767626	she	15	pronoun	1	did she make a two pointer or three
+557.082648	558.121515					three pointer okay
+559.094631	564.025962	"she, she"	15	pronoun	1	yay she is like dribble she is like langplayx shoot
+566.406151	566.866409					shoot
+568.15513	569.193998					speechx are you going to do it
+569.772607	570.246015					okay
+572.257998	575.3746					wow three pointer probably
+577.057827	579.753622	"she, she"	15	pronoun	1	yes she does not really have to wear the helmet in basketball does she
+580.358532	581.542051	it	1	pronoun	1	because it is a football helmet
+586.039426	587.4991					mmm
+588.10401	590.602551	"she, she"	15	pronoun	1	is she going to take a nap is she tired after playing basketball
+593.798054	594.994723	she	15	pronoun	1	she is going to play another ball
+595.691685	598.269128	she	15	pronoun	1	maybe she needs to make a phone call to grandma to babyname
+599.04499	599.755102					hello
+600.333712	600.83342					hello
+602.095841	607.50058					hello hello it is babyname you want to talk to babyname okay hi babyname no okay
+609.657216	611.366744	she	15	pronoun	1	does she want to put to her ear
+612.773817	614.246641	she	15	pronoun	1	is she saying hi babyname
+616.350676	617.20544	her	15	pronoun	1	in her ear
+619.046471	619.940685	her	15	pronoun	1	those are her ear
+621.176806	624.280257					i think her hair is covering her ear that is why you cannot see them
+627.278506	628.803932					but you know who you can see his ear
+630.263606	631.565477					can you see the elephant ear
+634.471675	636.799264	"his, he"	5	pronoun	1	yes his ear are right there he has got one two
+637.220071	639.442457	"he, he"	"5, 5"	"pronoun, pronoun"	"1, 1"	so if he wanted to talk on the telephone what would he do
+643.137668	643.795179					but
+644.755145	645.807162					there you go
+647.365463	650.738494					yes hello babyname how are you are you in the basement
+652.132417	653.789344	she	0	pronoun	2	remember she went downstair to go sleep
+654.473155	657.011147	she	0	pronoun	1	she is like i am not downstair i am with babyname
+658.010564	659.154633					that is what babyname said
+660.627457	661.574273					what does this bug do
+665.04593	666.22945	this	14	pronoun	2	is it this look
+670.832026	672.199648	it	1	pronoun	2	no cut it in half
+673.751374	674.093279					no
+687.085694	689.926141	this	18	pronoun	2	that is a fun noise it makes oh do you know what this is
+692.753438	693.792305	it	18	pronoun	2	it goes on your ear

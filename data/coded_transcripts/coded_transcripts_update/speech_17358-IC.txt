@@ -1,0 +1,203 @@
+85.038135	86.020649					soundx hammer
+88.139883	88.774332					soundx hammer
+89.981547	91.409056					do you want to play with the hammer
+92.942307	94.669416					oh let us play with the hammer
+96.90761	97.370229					hammer 
+99.899211	103.07586					can you can you play with the do you like the hammer
+103.490014	104.001097					one
+104.402033	104.921929					two
+105.3493	105.759048					three
+107.252646	108.644908					can you do one two three
+109.719946	111.019684					one two
+112.856942	114.310886	this	23	pronoun	1	okay is this a home
+115.161223	115.742801					home
+116.593139	117.293675					home
+119.100091	121.250167					lets go to our home
+123.431084	123.827614					okay
+124.316668	125.814672					oh elephant
+126.378626	128.934044					elephant is sleeping on the bed
+129.35701	130.586254					elephant is sleeping
+132.084257	133.119642					elephant says
+133.60429	134.736605					vocplayx
+135.194818	136.402032					vocplayx
+136.789751	139.477345					vocplayx
+139.895905	146.240391	"this, it"	11	pronoun	2	elephant says vocplayx and this a spider is it a spider no it is a beetle it is a ladybug
+147.09954	151.069249					one little ladybug he flys flys flys
+151.66845	155.453112					two little ladybug they jump jump jump
+156.100778	160.889984	this	11	pronoun	1	three little ladybug they roam roam roam is this a ladybug
+161.991457	162.709617					oh
+163.220701	166.066908	this	11	pronoun	1	and what is this oh is this a ladybug
+166.987739	168.565049	this	11	pronoun	1	is this a talking ladybug
+169.43301	170.239288					do you know how to do this
+171.675609	172.860794					oh
+173.697914	175.094582					yay
+176.671891	178.341725					yay yes
+178.773502	179.535722					do you love that
+180.967637	182.271781					what else do we have
+184.43948	185.483677					grasshopper
+187.884888	189.14938					a grasshopper
+189.783828	190.316941					vocplayx
+191.299455	192.035239					grasshopper
+193.048595	197.07558					oh babyname do you know we have phone hello
+198.040471	198.82472					hello babyname
+200.322723	201.181872					hello babyname
+202.671064	203.459719					hello babyname
+204.627281	205.310194					hello
+206.69805	207.301657					hello
+208.112342	209.654404					how are you today
+212.178981	213.35976					babyname hello
+214.959099	215.946019	this	11	pronoun	2	is this a ladybug
+217.148828	218.76579	that	11	pronoun	1	what is that a ladybug
+224.004397	227.908018	this	7	pronoun	2	what else do we have we have a sleeping bunny is this a sleeping bunny
+228.604149	229.22538					bunny
+235.071999	236.966533					ball is there a ball inside
+238.094442	240.143182	this	x	pronoun	2	is this a box is this a ball
+241.407673	244.068832					ball stacking yes very good
+245.381788	247.456964					very good boy
+248.443883	250.144558					good boy
+250.884748	251.995033					good boy
+252.774876	253.620807					babyname can you stack
+254.228821	254.625351					babyname
+255.616677	256.519885	that	11	pronoun	1	that is a ladybug
+257.198392	258.185312	that	11	pronoun	1	that is a ladybug
+258.546595	262.917241	he	11	pronoun	1	one little ladybug he flys flys flys
+263.538472	264.957169	that	11	pronoun	1	that is a ladybug
+269.081085	270.385229					do you like the ladybug
+278.329054	279.042808	this	x	pronoun	2	and what is this
+279.553892	280.761106	this	x	pronoun	2	is this a ladybug too
+282.708511	283.298901					oh
+284.219732	285.12294	this	x	pronoun	2	is this a spider
+285.78823	288.704931	this	x	pronoun	2	babyname remember incy wincy spider is this a spider
+290.295458	290.775701					spider
+291.489455	292.626175					incy wincy spider
+293.692401	295.529659	this	x	pronoun	2	okay this is not a spider this is a
+296.498955	297.640081					some kind of beetle
+301.125142	303.125418	that	x	pronoun	2	vocplayx what is that
+304.372285	306.998197					i have never seen that before lets do this
+307.711952	308.223036					soundx
+309.143867	311.730126	it	x	pronoun	2	make believe it is a spider okay
+313.329465	317.281551					incy wincy spider went up the water spout
+318.757525	319.731227	this	x	pronoun	2	is this a spider
+322.824164	324.476374					you like that 
+325.02711	325.723241					you like that
+331.719661	334.839033					what else do we have we have a home babyname do you remember home
+335.394176	335.940507					home
+337.522222	338.297659					home see
+339.866157	340.284717					okay
+341.425843	342.752017					let us duck toys
+344.501156	345.029863					eyes
+345.897824	346.259107					soundx
+348.550172	349.20665					one
+350.400646	351.017471					two
+351.986768	353.594919					and three
+354.313079	356.088654					langplayx
+357.472104	359.216838					langplayx
+361.789879	362.38908					now you do it
+363.071994	363.345159					soundx
+364.380544	365.283752					do it okay
+367.662934	367.980158					vocplayx
+369.103661	369.429697					vocplayx
+371.262548	372.936788					can you
+376.276454	377.113574					use the hammer
+387.626034	388.361818					do you like that
+389.952345	391.542872	this	x	pronoun	2	okay is this a spider 
+393.388942	395.146893	it	x	pronoun	2	do you think it is a spider or a bug
+396.922467	398.015129	one	x	one	2	which one is the ladybug
+400.676288	402.553198	this	x	pronoun	2	okay great this is a ladybug
+403.513683	406.064695					is this miss soundx
+408.1619	410.007969					soundx goes to school
+410.664447	411.752702					with miss alena
+412.550169	413.431347					hi nieghbor
+414.162726	415.04831					hi nieghbor
+417.026556	418.079564					oh you do not like that
+422.155015	423.965837					a flower flower
+424.639938	424.996816					leaf
+427.75931	428.640489	this	x	pronoun	2	is this a flower
+429.363055	431.226748					we can plant some flowers
+433.738107	434.526762					you like the bug
+435.068686	435.302199					okay
+436.606343	440.717041					the incy wincy spider went up the water spout
+442.41331	446.294901					incy wincy spider went up the water spout
+447.563798	452.952205	this	x	pronoun	1	down came the rain and washed the spider out is this a spider
+455.106686	459.14689					out came the sun and dried up all the rain
+462.054779	462.438092					yes
+463.623277	464.795245					incy wincy spider
+466.716214	468.090852					down came the rain
+471.395272	474.144549					do you remember a spider spider is black
+475.074192	476.435613					bug is red
+476.968726	477.823469	it	x	pronoun	2	it is a beetle
+478.986625	479.942704	it	x	pronoun	1	it is a beetle
+485.260616	486.177042	this	x	pronoun	2	and what is this
+486.652878	487.146338					oh
+488.06717	491.309907					oh langplayx elephant say langplayx
+492.900434	494.156113					langplayx
+496.403119	499.037843					okay should i do this again okay okay
+499.826497	500.200998					okay
+502.386321	504.294073					langplayx
+504.831591	506.545484					langplayx
+507.254832	511.352313					incy wincy spider went up the water spout
+512.964869	516.956608					down came the rain and washed the spider out
+518.053675	527.526345					out came the sun and dried up all the rain so incy wincy spider went up the spout again oh
+529.310731	532.848663					okay let us take spider to her home
+533.350935	535.051609					spider is going to the home
+536.470307	537.060697					home
+540.100763	540.717588					okay
+541.237483	542.418262					do you want to do it again
+543.563794	544.832691					vocplayx
+545.894511	546.45406					spider
+547.370485	550.256345					incy wincy spider this is not spider babyname
+552.009891	553.90883					it just has legs like a spider
+554.336202	554.750356					legs
+561.526619	562.96294					it is a red beetle
+564.51822	565.461081					red beetle
+566.906214	568.020905					and this is a ladybug
+571.677796	572.66031					and what is this
+573.563518	575.559387					is this a bunny or a puppy
+577.030955	577.370209					babyname
+579.819885	580.137109					babyname
+581.881843	585.895611					foriegnx
+587.261438	591.257583					foreignx 
+593.143305	594.817544					foreignx
+595.469616	597.254003					foreignx see this
+598.091122	600.417434					vocplayx soundx bunny
+600.954953	602.664439					hop goes the bunny hop hop hop
+603.105028	605.008374					hopping bunny hop hop hop
+606.056976	607.999975					hop little bunny hop hop hop
+608.467	610.238168					hop little bunny hop soundx
+610.687569	611.031229					stop
+613.154869	614.071295					bunny
+615.811623	616.798543					sleeping bunny
+617.763433	618.6358					wake up bunny
+619.948756	620.953299					sleeping bunny
+621.675866	622.614321					wake up bunny
+625.821811	627.258132					babyname we have a bunny
+628.214211	628.875095					elephant
+632.937328	633.338264					plant
+633.748012	634.237066					flowers
+636.995155	637.607574					car
+639.118795	642.097179					let us drive in the car
+643.440976	647.190391					let us buckle our seatbelts and go far
+649.736996	650.164368					car
+652.111773	653.076663					we have one more car
+654.34556	656.010988					one car two car
+658.509129	659.218478					three cars
+660.756134	662.152802					one two three
+665.025444	666.078453					one two three
+668.347487	671.114388					let us drive in the car babyname car
+671.700372	671.969131					babyname
+672.365661	673.215999					car
+674.87702	675.687704					car
+677.287044	679.520831					let us drive in the car
+681.234723	682.67545					oh we have a turtle
+684.737408	685.407104					okay no
+691.227288	691.663471					spider
+692.218614	693.055734					is this a spider
+700.259368	701.819054					what is this it is a beetle
+705.458321	707.758197					we may soundx spider
+709.256201	713.763429					incy wincy spider went up the spider water spout
+716.856366	720.773204					down came the rain and washed the spider out
+722.469473	724.042377					a big spider to us
+728.430646	729.307419					do you want to use this
+731.06537	732.977527					no you do not like it no
+733.567917	733.845488					no
+737.542032	738.700782					do you like the soundx

@@ -1,0 +1,75 @@
+92.262487	92.855802					which one do you want
+94.406953	95.186407					the bunny rabbit
+101.805946	102.790927	it	26	pronoun	2	no you got to leave it alone
+103.310563	104.265839	one	26	one	2	look mommy has one too
+104.670362	105.668313	they	0	pronoun	2	oh where did they go
+106.381842	107.203953	they	0	pronoun	2	did they go bye bye
+111.275725	112.850144	tone	15	one	2	hey do you think that this one could wear the helmet
+113.427948	113.815736					let us try
+118.116303	118.306319					oh
+119.434782	120.958788					football player
+124.22784	124.90259					ta da
+128.22981	128.823126					yeah
+131.367014	132.309338	it	1	pronoun	1	uh oh is it stuck
+133.984582	134.364614					there you go
+139.692819	140.526563	it	1	pronoun	1	do you want it back on
+142.128127	143.718057					nope leave it nope leave the hat alone
+144.69916	144.947345					look
+146.928941	147.626959	it	1	pronoun	1	there it is back on
+151.91977	152.342459					really
+155.204333	156.809775	it	1	pronoun	1	oh off it is off
+158.868929	159.520412	it	1	pronoun	1	do you want it back on
+161.296481	163.002747	"its, its"	"15, 15"	"pronoun, pronoun"	"1, 1"	not on its feet it goes on its head
+165.061901	166.081783	they	0	pronoun	2	oh are they back
+223.373561	223.951364	this	4	pronoun	1	this is a flower
+224.971247	225.645997	it	4	pronoun	1	does it smell good
+226.332382	226.743437	it	4	pronoun	1	you smell it
+227.48799	228.89566					oh so yummy
+231.016859	232.53311					do you want to play with the hammer
+237.582108	238.38953					what are we going to hammer on
+238.826907	240.773602					should we hammer on spongebob
+244.72516	245.05478					yeah
+246.074662	246.559396					can you go
+247.718882	248.754276					langplayx
+253.811029	254.861934					langplayx
+259.55029	260.981227	one	8	one	2	yeah i do not think that one comes apart
+263.924537	265.359352					langplayx
+271.129635	271.959501					the elephant
+274.747696	275.678386					what does an elephant say
+277.613448	278.792323					what does an elephant say babyname
+280.4792	281.634808	they	5	pronoun	1	they say oh
+282.961042	283.787031					vocplayx
+287.215075	287.525305					yeah
+289.623238	291.364405	that	12	pronoun	2	what oh oh my goodness that is a
+291.779338	292.114248					bug
+292.516135	293.536017					a praying mantis
+295.164726	295.564148	it	12	pronoun	1	it is a bug
+296.103173	298.833199	it	12	pronoun	1	it crawls on you and goes vocplayx
+299.833692	300.535588					vocplayx
+313.099915	314.081018	it	10	pronoun	1	yeah it is the hammer again
+316.419379	317.33068					are you hammering the car
+329.639067	330.841209					yep well careful careful
+334.346811	335.579977					oh langplayx
+336.297384	336.495156					look
+337.138884	337.836902	this	18	pronoun	2	what does this do
+339.370641	340.721748					vocplayx
+341.259764	342.372202					look you can rake up the flower
+342.833359	343.521048					vocplayx
+344.491904	345.159367					vocplayx
+358.925289	359.131596					oh
+359.762652	360.231899	this	16	pronoun	2	what is this
+362.485093	363.180873					the phone
+364.143638	364.742332					who is on the phone
+365.834544	366.55055					is it daddy
+366.98339	367.792436					say hi daddy
+369.6047	370.017314					bye dad
+371.894301	372.092517					oh
+383.694241	384.369795					vocplayx
+384.80668	385.441781					there is another car
+386.323641	388.495931	they	25	split	2	vocplayx should they have a race
+391.452995	393.342118					should we line all of the car up
+394.559732	395.22315					have a race
+402.710874	403.143713					what is wrong
+404.960022	406.748014	it	12	pronoun	2	oh i do not think it is going to fit in that car
+414.640261	416.056092					oh vocplayx
+421.027681	421.525245					car

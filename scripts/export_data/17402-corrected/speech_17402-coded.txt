@@ -1,0 +1,125 @@
+266.841236	269.283988					we going to try combing the carpet again
+269.896222	272.765682					come over here look oh comb
+273.3841	274.200412					can you do that one
+275.239354	278.349997					comb so soft
+278.764337	280.118673	it	27	pronoun	2	it is so soft
+280.829854	282.004848					yes
+284.076549	286.383249	this	2	pronoun	1	this is a house who lives in the house speechx
+287.886005	289.487708					do you think the beetle lives in the house
+290.804938	293.519794	he	11	pronoun	2	oh i do not know what noise he makes
+295.424522	296.556227					house yep
+298.164114	300.439893					maybe this angry looking bunny can live in the house
+301.596335	305.925261	that	2	pronoun	1	should we put him in the house that is my house i am going to live in that house
+307.910384	311.546682	"he, him, it"	"7, 7, 2"	"pronoun, pronoun, pronoun"	"1, 1, 1"	yep oh he will not fit inside you just have to put him next to it like this
+312.127995	317.038235	that	2	pronoun	1	you can stand right here say that is my house i am going to stand right here i am an angry bunny
+317.582443	318.782174	this	8	pronoun	2	what about this speechx
+319.759275	324.521094	"it, he, he"	"8, 8, 8"	"pronoun, pronoun, pronoun"	"1, 1, 1"	i think it is spongebob squarepants he has got a big smile he has got a big smile
+330.247646	331.583429					vocplayx
+332.214216	332.943949	one	19	pronoun	2	here is another one
+334.06947	337.656295					vocplayx
+338.744711	341.292594					vocplayx
+343.086006	345.621521					vocplayx
+346.771778	347.452038					langplayx
+348.379666	349.529923					can you make your car beep
+350.333867	350.98939					langplayx
+353.017802	354.625689					hey i want to get in that car
+355.503842	356.456206	she	15	pronoun	2	she going to sit on top
+357.928041	358.868037					oh this is fun
+360.500661	364.384327					vocplayx
+365.992214	367.315629					vocplayx
+369.319303	370.444824	her	15	pronoun	1	we can comb her hair
+372.374289	373.809019					you want to comb the baby hair
+375.317959	379.09031	it	15	pronoun	1	you like to comb hair do not you that is right make it look pretty
+388.032636	390.234204					is that a baby say hello baby
+391.409199	392.312089					hello baby
+398.508639	399.85679					umm this car as well
+409.108325	412.262258	these	17	pronoun	2	oh look look have you seen one of these before
+413.029096	414.871982					you always want to play with babyname one do not you
+416.24487	417.271445					now is your chance
+422.960891	423.863782					can aurora do it
+424.717199	427.858763					umm aurora is not here though she is off playing with someone else
+428.910074	431.086905					let us see i have got lots of silver
+433.226632	436.306354	one	17	one	1	see we are trying to get all the silver on one side mommys no good at these one
+445.817625	447.697616	this	14	pronoun	2	umm what is this for
+449.342608	449.961027					can we go
+452.781013	454.46311					it makes a cool sound
+459.843348	460.758607					hold the house
+465.000955	465.347269					yep
+466.336738	467.029367					and then you go
+468.958831	469.935932					does that feel cool
+474.586436	474.945119					oh
+475.773799	476.280902	it	2	pronoun	2	i will hold it
+476.689058	477.690895	it	14	pronoun	2	oh turn it up this way
+479.632728	480.733512					yep now hold the handle
+481.240615	481.95798					good boy
+492.087669	493.002928					using a saw
+494.882919	495.897125					yes you are sawing
+499.286056	500.287893					you might scratch the house
+503.924192	504.456032					your turn
+510.244425	511.295736					upside down
+511.815207	512.705729	it	14	pronoun	1	you turn it over
+515.562821	516.168871					like this
+516.725447	517.356234					here we go
+522.414894	524.579357					where was that other cool one i thought we have got a whole
+526.038824	526.892241					orchestra here
+529.835911	531.233536					you do sawing and mommy do the
+536.49009	537.62798					byebye house
+542.451641	543.651372					byebye house
+550.726076	553.842903	that	21	pronoun	2	it is actually very hard to get that going oh what is in here babyname
+554.84474	555.623947					yes
+557.479201	561.164973	it	24	pronoun	2	it is ball speechx ball for you to play with you like to play with ball do not you
+565.246533	571.888344					alright now mister turtle is coming over to play with mister elephant vocplayx
+574.324911	580.793565	his	5	pronoun	1	oh poor mister elephant poor mister elephant fellow off his bed is turtle going to bed now say night night turtle
+581.894349	582.920923					night night turtle
+584.887493	585.679068					have a good sleep
+587.497217	588.783527					night night elephant
+589.191683	590.242994					night night elephant
+965.758847	967.008051					babyname hello
+967.910942	975.938009					what are going to do today guy and babyname said well i do not know i would like to go to the park should we go to the park elephant should we go to the park turtle
+976.667742	978.090104	that	26	pronoun	2	yes let us get that out of the way
+978.683785	979.697991	they	9-May	split	1	so off they went
+980.143252	983.952708					langplayx can you make can you make the turtle walk
+984.3856	986.414012					langplayx
+987.193219	990.470835	he	9	pronoun	1	langplayx and what about langplayx is he walking too let us make langplayx walk
+990.878991	995.578968					langplayx
+996.271597	1002.752619	"they, they"	"5/9, 5/9"	"split, split"	"1, 1"	and then they said well i am hungry should we go and have some lunch so off they went and they got some lunch and what did they eat for their lunch babyname
+1003.160775	1004.063665	they	9-May	split	1	did they eat rice
+1005.23866	1006.314707					and watermelon
+1007.613385	1024.434358	"they, him, he "	"5/9, 9, 9"	"split, pronoun, pronoun"	"1, 1, 1"	yes what did they have for lunch should we give him some rice vocplayx what about the turtle oh vocplayx he likes rice too just about as much as babyname does babyname want some rice vocplayx mommy have some vocplayx oh that is good rice what else should we have for lunch are we going to have watermelon
+1025.077513	1036.988246	they	9-May	split	1	yes okay here have some watermelon elephant vocplayx have some watermelon turtle vocplayx what about you babyname do you want some watermelon vocplayx and mommy have some vocplayx do they like blueberry too
+1037.804558	1047.90951	them	9-May	split	1	should we give them some blueberry here is some blueberry elephant vocplayx here is some blueberry mister turtle vocplayx here is some blueberry mommy vocplayx does babyname want blueberry
+1048.428981	1050.655286					okay have some blueberry vocplayx
+1051.063442	1051.521072					yes
+1052.646593	1057.705253	"they, they"	"5/9, 5/9"	split	1	at home yes and what else did they have with your lunch did they have some milk
+1058.583407	1071.112558	"they, he"	"5/9, 25"	"split, pronoun"	"1, 1"	they have some milk okay have some milk so we have to feed it in a cup vocplayx what about babyname does he want some milk vocplayx mommy have some milk vocplayx umm i do not think turtle felt like milk today
+1072.745182	1076.208323					no no milk for mister turtle what about some cheesy cheese
+1076.900952	1081.761718					cheesy cheese oh vocplayx yep i just love my cheesy cheese what about you elephant
+1082.479083	1086.573011					vocplayx what about you babyname does babyname want some cheesy cheese
+1087.117219	1088.366424					yeah that is a duck duck
+1090.555624	1092.175879					cheesy cheese for babyname yes
+1093.066401	1095.34218					well you have got to face this way to eat the cheesy cheese buddy
+1096.084282	1101.674782					where is babyname come here baby come here baby would you like to sit on mommys knee for a little while
+1102.36741	1103.307406					what else have we got
+1105.31108	1105.978972					oh
+1109.194746	1110.654213					it really is mommys favorite
+1111.618945	1113.944197					good one good twisting
+1115.007876	1115.923135					good twisting
+1130.740433	1132.546214					thank you can i do that again
+1133.659367	1134.376732					do it on here
+1137.7904	1139.175657					you are getting really good at that
+1076.900952	1081.761718	it	17	pronoun	2	can you tap it too
+1144.172475	1144.988787					oh
+1145.434048	1146.349307	it	17	pronoun	1	just want to saw it
+1151.618229	1152.310858					cool
+1158.544512	1159.286614					cool
+1160.894501	1161.488183					hey
+1162.279758	1165.668689	it	12	pronoun	1	it is a preying mantis daddy showed us a preying mantis the other day did not he
+1166.583948	1168.661833	one	12	pronoun	2	that one is so big that one was just little
+1171.382873	1173.13918					oh what is the preying mantis doing
+1174.4997	1178.482313	"he, they"	"12, 12/11"	"pronoun, split"	"1, 1"	do you think he likes to hang out with with the ladybug because they are both insect
+1180.0902	1183.973866					umm that is a good one we have got a hat for someone who should we put this hat on
+1184.814914	1186.546485					i think we can fit the hat on this guy
+1188.352266	1189.193314					no
+1190.182783	1192.359615	it	1	pronoun	1	no what about this little girl can she wear it
+1193.448031	1196.490648	her	15	pronoun	1	maybe maybe mommy can squeeze her head in there
+1198.321166	1198.989058					oh

@@ -1,0 +1,64 @@
+310.073835	310.525975							speechx
+315.424158	317.213879							yay giraffe
+319.041278	320.265824							giraffe is in the car
+326.614623	328.799966							yellow yellow giraffe
+329.798442	331.305575							heart heart heart heart
+332.756191	334.508233							okay so you want to play the car
+337.597857	340.857032							langplayx
+350.766434	358.660044							wheel wheel round and round round round round round round round round round round
+361.184493	361.580115							yes
+364.387151	365.781249							babyname here babyname
+366.289907	367.684005	this	15	pronoun	2	0	3	oh what is this
+369.021586	369.37953							speechx
+370.359167	370.96202							speechx
+373.298076	373.919769							baby
+374.522622	375.992077							baby mwah
+376.764483	377.49921							flower
+377.97019	380.965617	that	32	pronoun	1	0	3	flower that was a flower on the baby shirt
+382.171324	384.582737							speechx
+385.260947	386.391297							oh oops
+391.496711	392.118403	this	4	pronoun	2	0	3	what is this
+394.077677	394.642852							flower
+396.451412	396.978908							speechx
+398.636755	399.503356							no no eat
+402.423427	403.007441							babyname
+403.354181	403.771438	this	6	pronoun	2	0	3	what is this
+404.35939	405.241318							snowman
+405.743922	408.038833	that	30	pronoun	2	1	1	come here okay you want to play that
+413.614895	414.430442							mmm mwah
+417.465034	418.802151							speechx
+419.93064	420.433244							oops
+422.073821	422.510043							oops
+423.306624	423.771296							cow
+424.748055	425.279109							cow
+426.786922	427.27056							cow
+427.659367	430.267219							foreignx
+431.433641	432.106941							elephant
+435.558789	437.123501	this	14	pronoun	2	0	3	speechx what is this
+437.720936	438.460618	this	14	pronoun	2	0	3	what is this
+440.025329	440.508967							saw
+441.333997	444.501353							langplayx
+444.975508	445.724673							langplayx
+447.924752	448.948927							langplayx
+454.259463	455.397435							red saw
+455.975904	457.331987							here hold here
+462.794253	465.620217							yes good job yay
+474.866239	477.436159							langplayx
+485.838186	486.189061							okay
+490.873712	494.960928							langplayx saw
+495.880789	496.753234							say saw
+497.492916	498.962797	this	14	pronoun	1	0	3	this is a red saw
+501.931007	503.43882							langplayx
+506.28375	506.615659							oops
+508.445897	509.991642							langplayx oops
+511.594286	513.642636							langplayx uh oh
+515.207347	517.426393							speechx
+519.455776	522.253291							speechx oops
+523.912833	527.393131							langplayx uh oh
+528.881978	531.745874							oops langplayx oops
+534.277862	536.430525							langplayx oops
+540.005654	542.632473							langplayx uh oh
+543.533367	544.756687							foreignx babyname
+545.686031	546.008456							foreignx
+546.795554	547.374023							foreignx
+548.417164	548.853387							foreignx

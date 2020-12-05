@@ -1,0 +1,117 @@
+582.55449	583.370889	that	11	pronoun	2	0	3	look at that
+584.133246	585.284707	that	11	pronoun	1	0	3	look at that red ladybug
+586.355465	587.473781							oh you got the truck
+588.345663	589.067668							what does the truck say
+591.76546	592.516287							what does the truck say
+595.940407	598.01275							langplayx
+599.41929	599.832894							car
+602.109876	602.76559	it	3	pronoun	2	0	3	is it a car
+606.434701	607.426197							and another car
+610.732145	611.178895	this	8	pronoun	2	0	3	what is this
+613.852187	614.742804							spongebob square pants
+617.525622	617.818171							huh
+618.933604	619.590759	this	9	pronoun	2	0	3	what is this
+621.02324	621.497371							turtle
+624.007816	625.0094	that	17	pronoun	2	0	3	look how pretty that is
+627.021214	628.358581	that	17	pronoun	1	0	3	look how pretty that is babyname
+635.618984	636.13779	it	17	pronoun	1	1	2	you want to turn it
+640.285356	640.515937							help
+650.451073	651.64865	it	17	pronoun	1	0	2	you trying to make it all come apart
+652.32598	653.366475	it	17	pronoun	1	0	2	i don't think it comes apart
+659.145398	660.373239							you could do it like that uh oh
+665.34513	668.757721	"this, these"	"12, 12"	"pronoun, pronoun"	2	"0, 0"	"3, 3"	what is this oh do you remember seeing one of these last fall
+670.197408	670.977059							praying mantis
+674.166275	675.340794							should we build some blocks
+677.58463	677.963647							watch
+689.727575	690.606663							then what are you going to do
+692.981641	694.571206							what are you going to do
+695.314828	697.890123							oh babyname
+699.043026	701.567882							why would you do that to daddy's house
+702.939836	703.8391							we build another house
+706.278929	707.440478							or should we put the baby to bed
+710.387585	711.376199							night night baby
+717.655193	718.488165							night night
+721.835906	722.99169							should we look at all the cars
+725.688041	726.464809							there is a car
+727.243018	728.084637							there is a car
+729.607909	729.995572							truck
+731.170092	732.204821							and another car
+734.77147	735.840787							that is all the cars
+745.01789	745.787453							should we build again
+758.137919	759.509873							what are you doing silly girl
+761.221933	762.351777							what are you doing
+769.277838	770.216013	that	22	pronoun	2	1	2	are you chewing on that
+771.204626	771.442413							huh
+771.75802	772.735104	it	22	pronoun	1	1	1	it may not be that clean see
+777.728613	780.192942							shoud we get the put the snowman back here
+788.714331	790.677148	this	23	pronoun	2	0	3	we need som way to stablize this huh
+792.579437	794.210793	that	23	pronoun	1	0	3	we need a way to stablize that
+796.066966	796.371044							a helmet
+796.765913	797.797761	her	15	pronoun	1	0	3	are you going to put the helmet on her
+803.84041	804.053697							yes
+804.700764	805.649026							baby you want the baby
+807.466288	808.479401							okay you take the baby
+809.832621	811.18584							is it time for the baby to go night night
+812.954104	814.524933							oh baby is going to get in the helmet huh
+827.002219	827.774664	it	22/17/2	split		1	2	you want to build it tall
+834.578229	840.083338	it	22/17/2/8/24	split		1	1	babyname oh you knocked it over
+840.734728	841.697401	it	22/17/2/8/24	split		1	1	you knocked it over
+845.179166	845.403982							drop
+847.657906	848.868454							there is a big truck huh
+850.361462	851.716123	"that, it"	"19, 19"	"pronoun, pronoun"	2	"0, 0"	"3, 3"	that has got big tires on it
+857.47487	858.397192							there is a snowman
+860.057371	862.02307							should we put the snowman should we build again
+867.15925	868.058514	that	8	pronoun	1	0	3	is that spongebob
+868.819429	869.99539							put the house sideways
+870.450786	872.024498	that	2	pronoun	1	0	3	we will put the snowman on top of that
+874.318774	876.244121							now what
+884.222205	885.196408							oh look at this thing
+885.957323	886.712474	one	21	one	2	0	3	i did not see this one
+888.799228	889.214272							are you going to do it
+894.494565	897.04248							yay you are doing it
+900.2879	902.132544							yes a big duck over there what does the duck say
+905.637367	906.473221							good job
+907.124611	907.995052							good job
+917.350855	918.642106							good job babyname
+920.630862	923.282538							let us see how else can we build these things
+930.591939	931.047335	this	2	pronoun	2	0	3	this
+932.131063	933.802772							who do we put on top
+935.416835	936.321863							the elephant on top
+938.420146	939.071536							yes
+947.34361	949.470715							babyname oh langplayx
+950.260453	951.396062	it	23/22/8/17/24/2/5	split		1	1	you knocked it all down
+953.765276	954.428195							there is the rabbit
+965.928396	967.496344							are you making a thing yes there you go
+968.533956	969.196875							there you go
+973.698958	974.517519							there you go
+1002.682924	1004.86191							langplayx
+1006.343389	1007.974746							that is right that is what a truck says
+1013.485619	1013.94678							yes
+1014.448293	1015.07086							there is the truck
+1015.745308	1017.007736							can we put the truck on the bed
+1019.665176	1021.112069	one	3	one		0	3	there is this car too look at this one
+1024.939704	1025.660268							langplayx
+1026.542239	1027.1821							langplayx
+1035.782751	1036.751189	it	21	pronoun		1	3	you want to shake it and make noise
+1052.845706	1053.618151							should we build again
+1067.833437	1068.911401							what should we put on top
+1070.975096	1071.372848							telephone
+1074.520271	1075.373419							hello hello
+1077.690753	1078.082739							hello
+1078.497784	1078.976239							who is there
+1080.296312	1081.172518							is it daddy
+1085.559311	1087.075378							hello hello hi daddy
+1087.686416	1088.251338							hi daddy
+1089.392712	1090.009515							talk to babyname
+1095.641443	1097.347738							hello hello is babyname there
+1106.65166	1107.568218							baby on top
+1110.000842	1110.79058							is that silly
+1111.989598	1114.220464							huh is that silly you have the baby on top
+1127.651777	1130.27463							babyname oh
+1139.849484	1140.253							that is right
+1140.864038	1141.694128							that is what a car says
+1146.363383	1147.839098							another car yes
+1149.343635	1150.392776	"that, it"	"13, 13"	"pronoun, pronoun"		"1, 1"	"1, 1"	that is another car is it not
+1177.745385	1178.667707							soundx
+1180.604583	1180.858222							huh
+1182.552988	1183.348491							put the baby in the bed

@@ -1,0 +1,217 @@
+87.245184	90.790967	"he, him"	"6, 6"	"pronoun, pronoun"	"2, 1"	"1, 1"	"3, 3"	does he have another arm what is over there oh another arm here you hold him
+91.758572	92.965714	he	6	pronoun	1	1	2	how many button does he have
+93.561406	94.027873							one
+94.800066	95.493464							two
+96.142736	97.6493							three three button
+98.11892	99.108587	he	6	pronoun	1	1	2	is he smiling
+99.962727	100.810563							can you smile
+102.53145	104.977253	"he, his"	"6, 6"	"pronoun, pronoun"	"1, 1"	"1, 1"	"2, 2"	can you smile he has got a hat on his head what else do you see
+106.209609	108.61759	this	12	pronoun	2	0	3	what is oh does this look familiar
+109.597803	111.126429	this	12	pronoun	1	0	2	does brother have a bug like this
+111.822979	116.052704	he	12	pronoun	1	0	2	langplayx he is giving you kiss vocplayx
+116.957273	118.700223							speechx want to give you kiss vocplayx
+119.362102	120.575548	this	12	pronoun	1	0	2	this is a praying mantis
+121.508483	121.836271							yes
+122.589553	124.436512							vocplayx
+125.397814	125.939924							speechx
+126.759394	128.663086	he	6	pronoun	2	1	1	oh is he coming to get the ele the
+129.406913	131.610026							elephant where is the elephant do you see an elephant
+133.176475	135.143202							where is the elephant vocplayx
+135.893333	136.854634							where is the elephant
+138.320224	140.482364							i spy with my little eye an elephant
+141.216735	142.543646							yes
+142.9849	144.794037							can you go vocplayx
+146.338423	148.238963	it	5	pronoun	1	0	2	yea it is an elephant can you say elephant
+150.319156	151.497932							can you say elephant
+152.408804	155.037411	he	5	pronoun	"1, 1"	0	2	good job can you he is going to spray the he is going to spray the
+156.001865	163.594569							the snowman vocplayx but it is so cold the water comes out as snow langplayx
+165.050704	168.202511							it is going to come out as snow elephant can you make an elephant sound
+169.831996	171.846001							good job vocplayx
+172.325076	173.374628							what else do you see
+174.05857	175.309837							i see another bug
+177.279717	180.626937	"one, one"	"11, 11"	"one, one"	"2, 1"	"0, 0 "	"3, 3"	what is this one langplayx remember what color this one is
+181.875052	183.075891	he	11	pronoun		0	3	he is red
+183.611698	187.299313	them	11	pronoun	1	0	3	a red ladybug with black spot can you count the spot can you touch them
+188.014773	188.780663							one
+190.243101	191.538494							two
+192.392634	193.120702							you want to hold the bug
+194.516952	195.903748							can you count the spot on the bug
+197.066765	197.164471							look
+197.769618	199.061859							one two three four five
+199.518871	199.966427							six
+201.129444	201.444625							oh
+201.866967	203.52797							langplayx say hello
+204.284404	204.57437							oh
+205.343411	208.747363	this	14	pronoun	2	0	3	hello how are you what can i use for my phone here i will use this as my phone
+209.97972	212.100886							langplayx hello how are you babyname
+212.851017	214.288241							who we calling are we calling babyname
+215.028916	215.54266							oh grandma
+216.056405	216.598516							grandpa
+217.685889	219.567518							or babyname should we call babyname
+220.897581	221.077234							yes
+221.619345	222.999837							langplayx put on your phone
+223.901254	225.347933							say hello where are you
+226.306083	227.76537	one	18	pronoun	2	0	3	how are you oh look at this one
+228.348454	229.322363	this	18	pronoun	1	0	2	oh and look at this
+229.791982	233.987038	"it, it"	"18, 18"	"pronoun, pronoun"	"1, 1"	"0, 0"	"2, 2"	it is a rake it is an orange rake look we can pretend that the carpet
+234.579578	236.666074	it	26	pronoun	1	0	1	is the grass or the sand can you rake it
+237.857457	238.531944	it	26	pronoun	1	0	1	can you rake it
+238.988956	239.439665							there you go
+240.385207	242.288899							good job rake the grass
+243.745034	244.709487							and here is a house
+245.6046	246.430374							and a block
+246.896841	247.262451							oh
+247.977911	248.977034							and another block
+250.729439	251.952341							and a twisty block
+253.670076	253.85288							langplayx
+257.720148	258.43876	it	17	pronoun	1	0	3	you want to twist it
+259.8161	260.18171	it	17	pronoun	1	1	2	twist it
+261.871079	263.491108	"it, one"	"17, 17"	"pronoun, one"	"1, 1"	"1, 1"	"1, 1"	it has got lots of color on that one
+264.748679	266.185903							good job twisting
+267.509662	267.616824							look
+268.212515	272.486366							there is red orange yellow blue white
+277.047032	277.945297							twist twist twist
+279.272208	279.823774	that	2	pronoun	2	1	1	what is that
+281.216873	282.020584	it	2	pronoun	1	1	1	is it a house
+284.882425	285.717654	that	2	pronoun	1	1	1	is that a house
+286.521365	288.068903							you want to rake the grass around the house
+289.178339	290.911833	one	10	one	2	0	3	oh look at this one
+292.802918	294.618359	"one, it"	"10, 10"	"one, pronoun"	"1, 1"	"0, 0"	"3, 3"	look at this one i think it makes funny noise
+295.261328	295.447284							oh
+297.127198	298.473019	"one, one"	"10, 10"	"one, one"	"2, 1"	"0, 0 "	"2, 2"	that one does not make any noise but this one does
+300.46181	301.476692	it	10	pronoun	1	0	1	you bang it on the house
+302.330832	302.948586	it	10	pronoun	1	0	1	bang it on the
+304.061174	304.543401	it	10	pronoun	1	0	2	hammer it
+305.069753	308.574562	this	2	pronoun	2	0	3	can you hammer oh good job now try hammering on this
+310.550746	312.325213							that red side does not make a noise does it
+313.648973	315.00425							yep no noise
+317.405927	318.338862							say langplayx
+320.122785	321.314168							can you say langplayx
+322.644231	323.113851							yes
+323.712694	325.033301							can you hammer like this watch
+326.060791	326.416945							try it
+329.039249	329.77362							can you try that
+331.182478	332.534603							oh try the squeaky side
+333.47069	334.460358							try the squeaky side
+335.185273	336.351442	it	10	pronoun	1	1	2	turn it there you go
+338.658565	339.95711							good job
+341.674845	344.388551							a house oh what a saw let us try to pretend to use the saw
+345.10086	345.375067							ready
+345.914026	348.996494	it	22/24	split	2	0	3	vocplayx oh we cut it enough
+351.930827	352.876369	one	17	one	2	0	3	can we do this one too
+354.798971	359.545594	this	14	pronoun	1	0	"3, 3"	vocplayx this is called a saw and a hammer
+360.749584	361.644697							and a rake
+362.719464	363.876177							mmm any other tool
+364.569575	365.710529							nope just those tool
+368.266645	369.650288							can we find all the car
+370.854279	372.18119							can you find all the car
+374.57026	377.321788	this	20	pronoun	2	0	3	one oh does this make noise press the button
+380.442077	381.466415							oh no noise
+382.021133	383.849181	it	20	pronoun	1	0	2	i thought maybe it might make a noise
+384.961769	386.09642							one car
+388.964565	390.644478							two car
+392.377972	394.168199							three car
+396.834628	398.520845							four car
+399.718532	400.619949							you like the hammer
+401.149453	402.189549							do you see something else
+403.598407	404.537646							that you would like to play with
+407.033877	408.026697							what would you like to play with
+409.366215	410.529232							can you use your words
+414.409107	415.430292							can you say hammer
+416.889579	417.576673							hammer
+418.881522	420.280924	"one, one"	"21, 21"	"one, one"	"2, 1"	0	3	what about this one watch this one
+424.286872	425.172529							is that fun
+426.266207	426.972212							good job
+430.757532	431.15466							watch
+432.311374	433.726535							or you can go like this too watch
+436.500126	438.038208							can you put your hands together like you are praying
+438.876589	439.957659	it	21	pronoun	1	0	1	and wiggle it oh
+440.742459	442.286844							yes you did it
+442.690276	443.282815	one	1	one	2	0	3	you want this one
+443.717765	445.55842	this	1	pronoun	1	0	3	this is red too look red
+446.141505	447.594488							red and
+449.13257	450.242006							red
+450.844002	454.670296	"that, that, they"	"21, 11, 21/11"	"pronoun, pronoun, split"	"1, 1, 1"	"0, 0, 0"	"3, 3, 1"	that is a red ladybug and that is a red ladybug do they look the same look
+455.275443	455.499221							look
+456.053939	458.093159							red ladybug red ladybug
+459.429525	460.992822							except one is a bug toy
+461.462441	462.083347	that	11	pronoun	1	0	2	that is squeaky
+462.899665	464.626856							and one a little drum toy
+468.658018	470.845372	this	1	pronoun	1	0	3	this is a helmet it goes on your head
+471.532466	473.032727	it	1	pronoun	1	0	2	should we put it on our doll head
+473.830134	474.548746							hi babyname
+475.081401	476.326365							how are you doing today
+477.423194	479.534905	"her, she"	"15, 15"	"pronoun, pronoun"	"1, 1"	"0, 0"	"2, 2"	should we put the helmet on her head she going to play football
+480.341768	481.394472	her	15	pronoun	1	0	2	can you put her head in the helmet
+482.421961	483.332833	her	15	pronoun	1	1	2	or the helmet on her head
+486.241952	487.219012							oh almost
+488.690906	488.999783							vocplayx
+490.383427	492.403735	she	15	pronoun	1	0	2	langplayx oh she has got poofy hair
+493.034097	495.779321	"she, her"	"15, 15"	"pronoun, pronoun"	"1, 1"	"0, 0"	"2, 2"	she has got pigtails like you do see if we cannot get her in there
+496.337191	498.212517	her	15	pronoun	1	0	2	oh her pigtail want to stick out
+500.686686	507.718368							langplayx
+510.548691	510.835506							oh
+511.421742	512.881029	"she, her"	"15, 15"	"pronoun, pronoun"	"1, 1"	"1, 1"	"1, 1"	she has got a helmet on her head
+513.360104	514.122841	she	15	pronoun		1	1	does she not
+515.169241	517.914465							say blue forty one blue forty two hut hut
+518.645685	519.43994							keep play football
+520.063998	521.422427							alright let us see what else we have
+524.158196	525.705734	"she, she"	"15, 15"	"pronoun, pronoun"	1	"0, 0"	"2, 2"	she looks funny in there does she not
+526.436953	527.770168	she	15	pronoun	1	0	2	she looks silly in there
+530.405079	532.18585	"she, her"	"15, 15"	"pronoun, pronoun"	"1, 1"	"0, 0"	"2, 2"	is she tired should we put her to bed
+532.696443	533.85946							do you see a bed anywhere
+535.170612	535.999537							hmm
+536.547951	537.250805	her	15	pronoun	1	0	1	where is her bed
+538.335026	538.675422							oh
+539.26481	540.774525							way over here
+541.921783	542.709735	"that, her"	"23, 15"	"pronoun, pronoun"	1	"1, 1"	"3, 2"	is that her bed
+543.116318	544.632338	her	15	pronoun	1	0	1	can you put the baby doll in her bed
+545.975008	546.800781	"her, her"	"15, 15"	"pronoun, pronoun"	"1, 1"	"0, 0"	"2, 2"	can you put her in her bed
+547.727413	549.955741	those	4/13/19/20	split	2	0	3	we got lots of car over here let us move some of those
+550.98323	551.285803							langplayx
+553.649659	554.55738	"her, her"	"15, 15"	"pronoun, pronoun"	"1, 1"	"0, 0"	"1, 1"	want to put her in her bed
+558.049582	558.408888							yes
+560.123472	561.58591	she	15	pronoun	1	1	1	oh she has got to take the helmet off right
+562.47472	563.319404	it	1	pronoun	1	1	1	oh can you get it
+563.880426	564.60219							pull
+565.487848	566.515337							pull
+570.057969	571.696909	"it, it"	"1, 1"	"pronoun, pronoun"	"1, 1"	"1, 1"	"1, 1"	can you get it say i got it
+572.881988	573.298027							yes
+574.316061	574.949574							help please
+577.285064	577.849237							there you go
+579.182452	580.903339	it	1	pronoun	1	0	1	it pop it is off oh
+581.675531	582.857459	"that, her"	"15, 15"	pronoun	2	0	3	what is that on her shirt
+584.789517	585.564862	that	15	pronoun	1	0	3	what is that called
+587.065122	588.328997	that	15	pronoun	1	0	3	is that a flower
+589.867079	590.582539							yes
+591.45559	594.1756	her	15	pronoun	1	0	1	are you going to put her to bed say night night baby doll
+596.136024	597.894733							night night dolly oh wake up
+598.525094	599.533673							hey hey
+601.273471	602.288353							wake up wake up
+603.133037	604.355938							the day is new
+604.948478	607.548719							the sun comes up and so do you
+611.485327	612.071563							a car
+615.172942	616.827641							bunny yes here is a bunny
+617.313019	621.526986	"he, his, he"	"7, 7, 7"	"pronoun, pronoun, pronoun"	"1, 1, 1"	"1, 1, 1"	"2, 1, 1"	look he has got a helmet on his head too oh i think he is a firefighter
+622.377974	624.020065	it	7	pronoun	1	1	1	it is a firefighter bunny
+625.469897	628.854938	he	7	pronoun	1	1	1	he has got a fire helmet a fire jacket and a water hose
+630.616798	631.278678							yes
+634.887498	635.470582							block
+637.56023	638.997455	one	24	one	2	1	1	i do not think that one comes open
+640.390554	641.452713							what is inside the block
+644.93546	646.202487							what is inside that block
+648.626227	649.420482							a ball
+652.487191	653.965388	this	4	pronoun	2	0	3	look what is this
+655.891143	656.729524	that	4	pronoun	1	0	3	what is that called
+658.926333	660.85524							flower you are right
+661.624281	664.9715	"it, it"	"4, 4"	"pronoun, pronoun"	"1, 1"	"0, 0"	"2, 2"	what do we do with flower do you want to sniff it does it smell good go vocplayx
+665.63338	666.203857							vocplayx
+668.539346	669.179163							so sweet
+670.074277	671.401188							what color is the flower
+672.633544	674.272484	it	4	pronoun	1	0	2	it is green and
+674.795684	675.372465							red
+676.910547	677.991617							you are going to fix the flower
+679.113661	679.536003	it	4	pronoun	1	1	1	hammer it
+680.194731	680.371232							oh
+681.102451	682.779213	it	10	pronoun	1	1	1	it is making squeaky noise again
+685.830162	687.390307							langplayx
